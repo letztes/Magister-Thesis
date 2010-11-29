@@ -1,0 +1,27 @@
+This file was created with JabRef 2.1 beta 2.
+Encoding: Cp1252
+
+@book{gabka_kurt_russische_1989,
+	address = {Leipzig},
+	edition = {1. Aufl.},
+	title = {Russische Sprache der Gegenwart},
+	volume = {3: Syntax},
+	isbn = {9783324004978},
+	publisher = {Verl. Enzyklopdie},
+	author = {Kurt Gabka},
+	editor = {Gabka, Kurt and Mulisch, Herbert},
+	year = {1989}
+},
+
+@book{linke_studienbuch_2004,
+	address = {Tübingen},
+	edition = {5., erw. A.},
+	title = {Studienbuch Linguistik},
+	isbn = {3484311215},
+	publisher = {Niemeyer},
+	author = {Angelika Linke and Markus Nussbaumer and Paul R. Portmann},
+	year = {2004}
+}
+
+@book{weber_dependenzgrammatik._1997,
+	address = {Tu
