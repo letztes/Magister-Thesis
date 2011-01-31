@@ -360,7 +360,16 @@ activate%
 
 
 %% Abkürzung für \foreignlanguage{russian}{}
-\newcommand{\rus}{\foreignlanguage{russian}}
+
+%\newcommand{\rus}{\foreignlanguage{russian}}
+%\newcommand{\rus}{\fontfamily{ptm}\selectfont%
+%                       \foreignlanguage{russian}}
+                       
+%\newcommand{\cyrbox}[1]{%
+%  \mbox{\fontencoding{OT2}\fontfamily{wncyr}\selectfont#1}} 
+%                       
+\newcommand{\rus}[1]{%
+  \mbox{\fontencoding{OT2}\fontfamily{wncyr}\selectfont#1}} 
 
 \addto{\captionsngerman}{\renewcommand{\refname}{Quellenverzeichnis}}
 \setkomafont{sectioning}{\rmfamily\bfseries\boldmath}

@@ -1,0 +1,105 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Vorlage fuer akademische Arbeiten, Gestaltungsrichtlinien der
+%% Medienwissenschaft an der Universitaet Regensburg
+%% 
+%% Gutes Gelingen  --  Juli 2008
+%% Christoph Mandl und Christoph Pfeiffer
+%% http://www-mw.uni-r.de/studium/materialien 
+%%
+%% CC/BY-SA/3.0 - http://creativecommons.org/licenses/by-sa/3.0/
+%% Weichheitszeichen: {\cyrsftsn} oder p1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%*********************************************************************
+% Typografische Gestaltung *******************************************
+%*********************************************************************
+
+\cleardoublepage
+\phantomsection
+\newpage
+%\thispagestyle{section}
+\abstand
+\section{Syntax}
+\label{sec:syntax_allgemein}
+
+Syntax, (von griechisch 
+$\sigma\acute{\upsilon}\nu\tau\alpha\xi\iota\varsigma$: Anordnung) ist eine Subdisziplin der Grammatik und bezeichnet einerseits den syntaktischen Bau der Sprache und andererseits die Lehre vom Satzbau, von der Ordnung, der die Satzglieder folgen und von den Satzgliedern selbst \citep[Vgl.][11]{Gabka1989}. Linke et al. heben weitere Bedeutungen des Begriffes hervor: Syntaktik bezeichnet in der Semiotik jegliche Relation zwischen Zeichen aller Art. So spricht man z. B. Von Wortsyntax, um die Beziehungen der Morpheme zu beschreiben, und von Textsyntax, um die Beziehungen der satzübergreifenden textkonstituiernden Elemente zu beschreiben \citep[Vgl.][84]{Linke2004}. 
+
+Der Begriff der Syntax findet auch außerhalb der Betätigungsfelder der Untersuchung natürlicher Sprachen Verwendung, etwa in der Informatik, um die Struktur von Programmcode zu beschreiben. Ich beschränke mich allerdings auf die Bedeutung \a{Anordnung der natürlichsprachlichen Wörter zu natürlichsprachlichen Sätzen}.
+
+Linke et al. \citep[85]{Linke2004} fassen die Regeln der Syntax für deutsche Sätze folgendermaßen zusammen:
+
+\begin{zitat}
+\begin{enumerate}
+\item Damit eine Gruppe von Wörtern eine wohlgeformte Wortgruppe oder ein wohlgeformter Satz genannt werden kann, genügt es nicht, beliebige Wörter zusammenzustellen, sondern es braucht dazu ganz bestimmte Wörter, es braucht -- genauer gesagt -- syntaktische Wörter mit spezifischen Eigenschaften.
+\item Es genügt auch nicht, die passenden Wörter mit den spezifischen Eigenschaften irgendwie zusammenzustellen; vielmehr muss eine bestimmte Ordnung eingehalten werden.
+\item Damit etwas ein vollständiger Satz ist, muss ein bestimmtes Minimum an Wörtern gegeben sein.
+\end{enumerate}
+\end{zitat}
+Der Begriff \a{wohlgeformt} bedeutet so viel wie \a{akzeptabel, wenn auch nicht absolut grammatisch}. Obschon in der russischen Sprache auf Grund ihrer im Vergleich zum Deutschen mächtigereren Morphologie die Wortstellung im Satz relativ frei ist, gelten die Regeln im Großen und Ganzen ebenso fürs Russische.
+
+Um Sätze bauen zu können, muss man sich also des Lexikons einer Sprache bedienen. Diese Wörter müssen mit Hilfe der Morphologie in eine gewisse Form gebracht werden. Und schließlich braucht es gewisser Regeln, mit denen diese morphologisch modifizierten Wörter miteinander in Beziehung gebracht werden.
+Die Regeln des Satzbaus umfassen vom rein strukturalistischen Standpunkt lediglich das Vorhandensein von Satzteilen sowie ihre morphologische Beziehung zueinander -- die Morphologie ist von der Syntax nicht immer trennbar und die beiden Disziplinen werden zuweilen unter dem Begriff \a{Morphosyntax} zusammengefasst. Die sprachliche Richtigkeit allerdings erfordert darüber hinaus das Berücksichtigen semantischer Kriterien. So können nur solche Wörter miteinander kombiniert werden, deren semantische Eigenschaften wie z.B. Belebtheit, Beweglichkeit, Abstraktheit usw. miteinander kompatibel sind. Noam Chomskys vielzitiertes Beispiel für einen grammatisch korrekten, aber völlig sinnlosen Satz \a{Colorless green ideas sleep furiously}, zu deutsch etwa \a{Farblose grüne Ideen schlafen zornig}, demonstriert dies deutlich.
+
+Ein weiteres Kriterium, das im konkreten Kommunikationsprozess berücksichtigt werden muss, ist die Akzeptabilität. Grammatikalisch korrekte Sätze haben dann eine hohe Akzeptabilität, wenn sie vom Hörer problemlos verstanden werden. Die Akzeptabilität leidet z. B. dann, wenn die Satzlänge oder die Anzahl der Satzglieder die Aufnahmefähigkeit des Kurzzeitgedächtnisses des Hörers übersteigt \citep[Vgl.][149 f.]{Pelz2004}.
+
+
+\subsection{Traditionelle Syntax}
+\label{sub:traditionelle:syntax}
+
+Den Begriff \a{traditionell} klar zu definieren, ist nicht einfach; Linke et al. \citep[59]{Linke2004} zählen alle Modelle, die in der Vergangenheit irgendwann vorgebracht wurden, dazu. Ich gehe in diesem Abschnitt jedoch lediglich auf die Beschreibung des Satzes ein, die man unter präskriptiver \a{Schulgrammatik} versteht, d.~h. so, wie man es von der Schule her kennt.
+
+Die in der althergebrachten Syntax untersuchten Einheiten sind Wortfügung und Satz, wobei der Satz in einfachen und zusammengesetzten Satz unterschieden wird. Die Bestandteile der syntaktischen Einheiten sind Wörter, die nächsthöhere, durch Sätze konstituierte Einheit ist der Text. \citep[Vgl.][147\, ff.]{Pelz2004} merkt an, dass es schwierig ist, festzumachen, was ein \a{Satz} überhaupt ist und ob er etwa der langue oder der parole angehört. An Definitionen zum Begriff Satz gibt es viele, als gemeinsames Merkmal kann man die in sich abgeschlossene semantische Äußerung betrachten. Bloomfield sagt es so \citep[148]{Pelz2004}:
+\begin{zitat}
+Der Satz ist eine unabhängige sprachliche Form, die durch keine syntaktische Beziehung in eine größere sprachliche Form eingebettet ist.
+\end{zitat}
+Darüber hinaus zeichnet sich ein Satz durch eine gewisse formale Struktur aus, die sich durch Morphologie und Intonation äußert. Sätze bestehen aus Wörtern, allerdings nicht aus den Lexemen, wie sie im Wörterbuch stehen, sondern aus den voll flektierten Wortformen, sozusagen aus syntaktischen Wörtern \citep[Vgl.][86]{Linke2004}. Die Morphologie fügt der lexikalischen Bedeutung eine syntaktische hinzu, d.h. die einzelnen Wörter werden in eine Subjekt-Prädikat-Beziehung zueinander gesetzt. Die Intonation fügt weitere Bedeutungen hinzu. Das wichtigste Merkmal des Satzes, die Prädikativität, wird aber auf all diesen Ebenen gemeinsam realisiert \citep[Vgl.][18\,f.]{Gabka1989}.
+
+Modalität, das Verhältnis des Gesagtem sowie die Einstellung des Sprechers zur Wirklichkeit, ist ein wesentliches Charakteristikum der Prädikativität. Ein weiteres Charakteristikum der Prädikativität ist die Temporalität, das zeitliche Verhältnis des Gesagten zum Redemoment. Durch die Intonation letztendlich wird nicht nur der Satztyp gekennzeichnet, sondern auch die Abgeschlossenheit des Satzes \citep[Vgl.][18\,f.]{Gabka1989}.
+
+
+\subsection{Satzgliedlehre}
+\label{sub:satzgliedlehre}
+
+Dass ein Satz nicht bloß aus Wörtern, sondern aus komplexeren Einheiten besteht, fand man im 19. Jh. heraus. Die Satzgliedrolle ist den Wörtern und Wortgruppen jedoch nicht inhärent, sondern ergibt sich je nach Zusammenspiel mit anderen Einheiten. Um diese Einheiten zu klassifizieren und zu beschreiben entlehnte man die Begriffe Subjekt, Prädikat, Objekt usw. aus der Logiktheorie \citep[Vgl.][87]{Linke2004}.
+
+Auch Pelz \citep[Vgl.][147]{Pelz2004} erwähnt eine auf die aristotelesche Logik zurückzuführende Satzdefinition, nach der \a{ein Satz sei, was Subjekt und Prädikat hat}. Als Subjekt wird das bezeichnet, worüber etwas ausgesagt wird, und als Prädikat wird das bezeichnet, was über das Subjekt ausgesagt wird.
+
+Laut Belo\v{s}apkova \citep[Vgl. auch][697\,ff.]{Belosapkova1989} wird der Satz gebildet aus den hauptrangigen Satzgliedern Subjekt und Prädikat sowie den nebenrangigen Satzgliedern Objekt, adverbiale Bestimmung und Attribut. Satzglieder können koordiniert sein, wobei nur gleichartige Satzglieder in Frage kommen, wohingegen Subordination verschiedenartige Satzglieder erlaubt. Die Kombination aus bloßem Prädikat und bloßem Subjekt benennt Belo\v{s}apkova \textit{\rus{predikativnyi0 minimum}}, Gabka \citep[Vgl.][45\,ff.]{Gabka1989} spricht im selben Zusammenhang von \textit{Satzkonfiguration}. In den Fällen, wenn das Prädikat ein Objekt fordert, gehört auch dieses zur Satzkonfiguration.
+
+Dürscheid \citep[34]{Durscheid2010} benennt die prototypischen Merkmale des Subjekts im Deutschen (die russische Grammatikschreibung ist damit und mit den folgenden Beschreibungen der anderen Satzglieder konform) wie folgt:
+
+\begin{zitat}
+    \begin{itemize}
+        \item Das Subjekt ist mit \a{wer oder was} erfragbar (semantisches Kriterium).
+        \item Das Subjekt ist das, worüber man spricht (pragmatisches Kriterium).
+        \item Das Subjekt ist kongruenzauslösend (formales Kriterium).
+        \item Das Subjekt wird in der Regel durch eine NP im Nominativ realisiert (formales Kriterium).
+        \item Das Subjekt fällt weg im Infinitiv (syntaktisches Kriterium).
+    \end{itemize}
+\end{zitat}
+
+Dürscheid (ebd.) merkt gleichwohl an, dass nicht jedes dieser Kriterien uneingeschränkt gilt, so lassen sich Beispiele (wenn auch grenzwertig akzeptable) finden, in denen das eine oder andere Kriterium scheinbar außer Kraft gesetzt ist. Im Wesentlichen kann man die Kriterien als Daumenregel gut gebrauchen.
+
+Für das Prädikat listet Dürscheid \citep[35]{Durscheid2010} die folgenden Merkmale auf:
+
+\begin{zitat}
+    \begin{itemize}
+        \item Das Prädikat ist das Satzglied, dem kategorial nur eine Wortart, ein Verb bzw. ein Verbkomplex, entspricht (formales Kriterium).
+        \item Das Prädikat bezeichnet eine auf das Subjekt bezogene Handlung, einen Vorgang oder einen Zustand (semantisches Kriterium).
+        \item Das Prädikat ist durch Kongruenz auf das Subjekt bezogen (morphologisches Kriterium).
+    \end{itemize}
+\end{zitat}
+
+Das Objekt wird bei Dürscheid \citep[36]{Durscheid2010} nach direktem Objekt und indirektem Objekt unterschieden. Für Aktivsätze gilt: Das direkte Objekt ist diejenige Entität, die \a{von dem im Verb bezeichneten Geschehen direkt betroffen ist (Patiens)}, das indirekte Objekt ist diejenige Entität, \a{auf die das Geschehen nur mittelbar gerichtet ist (Rezipient)}.
+
+\begin{zitat}
+    \begin{itemize}
+        \item Das Objekt ist Zielpunkt des verbalen Geschehens (pragmatisches Kriterium).
+        \item Das Objekt trägt die semantische Rolle des Patiens bzw. des Rezipienten (semantisches Kriterium).
+        \item Das Objekt ist im Kasus durch das Verb (z.~B. \textit{treffen} + Akkusativ) oder durch das Adjektiv gestimmt (z.~B. \textit{treu} + Dativ) (formales Kriterium).
+    \end{itemize}
+\end{zitat}
+
+\subsection{Testtext}
+
