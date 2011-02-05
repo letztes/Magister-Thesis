@@ -39,6 +39,27 @@
   edition = {3., aktualis. und erweit. Aufl.}
 }
 
+@BOOK{Chomsky2006,
+  title = {Language and mind},
+  publisher = {Cambridge Univ. Press},
+  year = {2006},
+  author = {Chomsky, Noam},
+  address = {Cambridge [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.04}
+}
+
+@BOOK{Chomsky1995,
+  title = {The minimalist program},
+  publisher = {MIT Press},
+  year = {1995},
+  author = {Noam Chomsky},
+  series = {Current studies in linguistics},
+  address = {Cambridge, Mass. [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.04}
+}
+
 @BOOK{Chomsky1957,
   title = {Syntactic Structures},
   publisher = {Mouton},
@@ -80,14 +101,50 @@
 }
 
 @BOOK{Gabka1989,
-  title = {Russische Sprache der Gegenwart},
-  publisher = {Verl. Enzyklop\"{a}die},
+  title = {Die russische Sprache der Gegenwart Bd. 3, Syntax},
+  publisher = {Verlag Enzyklop\"{a}die},
   year = {1989},
-  editor = {Gabka, Kurt and Mulisch, Herbert},
-  author = {Kurt Gabka},
+  editor = {Gabka, Kurt},
+  author = {Gabka, Kurt},
   volume = {3: Syntax},
   address = {Leipzig},
   edition = {1. Aufl.}
+}
+
+@BOOK{Gabka1988,
+  title = {Die russische Sprache der Gegenwart Bd. 2, Morphologie},
+  publisher = {Verlag Enzyklop\"{a}die},
+  year = {1988},
+  editor = {Gabka, Kurt},
+  author = {Gabka, Kurt},
+  volume = {2: Morphologie},
+  address = {Leipzig},
+  edition = {1. Aufl.},
+  owner = {artur},
+  timestamp = {2011.01.31}
+}
+
+@BOOK{Grewendorf2002,
+  title = {Minimalistische Syntax},
+  publisher = {UTB; Francke},
+  year = {2002},
+  author = {Grewendorf, Günther},
+  address = {Tübingen [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.04}
+}
+
+@BOOK{Grewendorf2001,
+  title = {Sprachliches Wissen : eine Einführung in moderne Theorien der grammatischen
+	Beschreibung},
+  publisher = {Suhrkamp},
+  year = {2001},
+  author = {Grewendorf, Günther and Hamm, Fritz and Sternefeld, Wolfgang},
+  series = {Suhrkamp-Taschenbuch Wissenschaft},
+  address = {Frankfurt am Main},
+  edition = {3., durchges. Aufl.},
+  owner = {artur},
+  timestamp = {2011.02.04}
 }
 
 @BOOK{Hentschel2003,
@@ -99,6 +156,28 @@
   edition = {3},
   owner = {artur},
   timestamp = {2010.12.01}
+}
+
+@BOOK{Heringer2009,
+  title = {Morphologie},
+  publisher = {UTB, Wilhelm Fink},
+  year = {2009},
+  author = {Heringer, H.J.},
+  series = {Uni-Taschenbücher M},
+  address = {Paderborn},
+  owner = {artur},
+  timestamp = {2011.02.04}
+}
+
+@BOOK{Heringer1972,
+  title = {Formale Logik und Grammatik},
+  publisher = {M. Niemeyer},
+  year = {1972},
+  author = {Heringer, H.J.},
+  series = {Germanistische Arbeitshefte},
+  address = {Tübingen},
+  owner = {artur},
+  timestamp = {2011.02.04}
 }
 
 @BOOK{Heringer1996,
@@ -162,6 +241,16 @@
   edition = {5., erw. A.}
 }
 
+@BOOK{Lohnstein2007,
+  title = {Geschichte der Grammatiktheorie : von Dionysios Thrax bis Noam Chomsky},
+  publisher = {Fink},
+  year = {2007},
+  author = {Oliver Jungen ; Horst Lohnstein},
+  address = {Paderborn},
+  owner = {artur},
+  timestamp = {2011.02.04}
+}
+
 @BOOK{Mel'cuk2001,
   title = {Communicative Organization in Natural Language: The {Semantic-Communicative}
 	Structure of Sentences},
@@ -183,6 +272,27 @@
   shorttitle = {Dependency Syntax}
 }
 
+@BOOK{Mulisch1993,
+  title = {Handbuch der russischen Gegenwartssprache},
+  publisher = {Langenscheidt, Verl. Enzyklopädie},
+  year = {1993},
+  author = {Mulisch, Herbert},
+  address = {Leipzig},
+  edition = {1. Aufl.},
+  owner = {artur},
+  timestamp = {2011.02.01}
+}
+
+@BOOK{Mueller2008,
+  title = {Head-driven phrase structure grammar: eine Einführung},
+  publisher = {Stauffenburg-Verlag},
+  year = {2008},
+  author = {Müller, Stefan},
+  address = {Tübingen},
+  owner = {artur},
+  timestamp = {2011.01.29}
+}
+
 @BOOK{Pelz2004,
   title = {Linguistik: Eine Einf\"{u}hrung},
   publisher = {Hoffmann und Campe},
@@ -191,6 +301,26 @@
   address = {Hamburg},
   edition = {8},
   shorttitle = {Linguistik}
+}
+
+@BOOK{Philippi2008,
+  title = {Einf\"{u}hrung in die generative Grammatik},
+  publisher = {Vandenhoeck und Ruprecht},
+  year = {2008},
+  author = {Philippi, Jule},
+  address = {G\"{o}ttingen},
+  owner = {artur},
+  timestamp = {2011.02.01}
+}
+
+@BOOK{Philippi2010,
+  title = {Basiswissen generative Grammatik},
+  publisher = {UTB ; Vandenhoeck und Ruprecht},
+  year = {2010},
+  author = {Philippi, Jule ; Tewes, Michael},
+  address = {G\"{o}ttingen},
+  owner = {artur},
+  timestamp = {2011.02.01}
 }
 
 @BOOK{Ramers2000,
@@ -219,6 +349,27 @@
   address = {Moskva},
   owner = {artur},
   timestamp = {2010.12.02}
+}
+
+@BOOK{Seuren2004,
+  title = {Chomsky's minimalism},
+  publisher = {Oxford Univ. Press},
+  year = {2004},
+  author = {Seuren, Pieter A. M.},
+  address = {Oxford [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.04}
+}
+
+@BOOK{Steedman2000,
+  title = {The syntactic process},
+  publisher = {MIT Press},
+  year = {2000},
+  author = {Steedman, Mark},
+  series = {Language, speech, and communication},
+  address = {Cambridge, Mass. [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.04}
 }
 
 @BOOK{Svedova1980,
