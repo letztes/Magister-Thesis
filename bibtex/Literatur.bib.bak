@@ -1,11 +1,26 @@
 % This file was created with JabRef 2.6.
 % Encoding: ISO8859_1
 
+@INCOLLECTION{Abramow,
+  author = {Abramow, Boris A.},
+  title = {Zur Paradigmatik und Syntagmatik der syntaktischen Potenzen},
+  booktitle = {Beiträge zur Valenztheorie},
+  publisher = {Mouton},
+  year = {1971},
+  editor = {Helbig, Gerhard},
+  number = {115},
+  series = {Janua linguarum : Series minor},
+  pages = {51-66},
+  address = {The Hague [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
+}
+
 @BOOK{Agel2000,
   title = {Valenztheorie},
   publisher = {Narr},
   year = {2000},
-  author = {Vilmos Agel},
+  author = {Agel, Vilmos},
   address = {T\"{u}bingen}
 }
 
@@ -147,6 +162,23 @@
   timestamp = {2011.02.04}
 }
 
+@INCOLLECTION{Gross2006,
+  author = {Groß, Thomas Michael},
+  title = {Dependency Grammar's Limits -- and Ways of Extending Them},
+  booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
+	Forschung = Dependency and valency},
+  publisher = {de Gruyter},
+  year = {2006},
+  editor = {Ágel, Vilmos},
+  volume = {1},
+  number = {25},
+  chapter = {28},
+  pages = {331-351},
+  address = {Berlin [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
+}
+
 @BOOK{Hentschel2003,
   title = {Handbuch der deutschen Grammatik},
   publisher = {de Gruyter},
@@ -180,14 +212,36 @@
   timestamp = {2011.02.04}
 }
 
-@BOOK{Heringer1996,
-  title = {Deutsche Syntax dependentiell},
-  publisher = {Stauffenburg-Verlag},
-  year = {1996},
-  author = {Heringer, Hans Jürgen},
-  address = {Tübingen},
+@INCOLLECTION{Irtenjewa,
+  author = {Irtenjewa, Natalja F.},
+  title = {Valenz und Satztiefenstruktur},
+  booktitle = {Beiträge zur Valenztheorie},
+  publisher = {Mouton},
+  year = {1971},
+  editor = {Helbig, Gerhard},
+  number = {115},
+  series = {Janua linguarum : Series minor},
+  pages = {17-30},
+  address = {The Hague [u.a.]},
   owner = {artur},
-  timestamp = {2011.01.29}
+  timestamp = {2011.02.09}
+}
+
+@INCOLLECTION{Kahane2006,
+  author = {Kahane, Sylvain},
+  title = {The Meaning-Text Theory},
+  booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
+	Forschung = Dependency and valency},
+  publisher = {de Gruyter},
+  year = {2006},
+  editor = {Ágel, Vilmos},
+  volume = {1},
+  number = {25},
+  chapter = {42},
+  pages = {546-569},
+  address = {Berlin [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
 }
 
 @BOOK{Kardanova2009,
@@ -251,6 +305,23 @@
   timestamp = {2011.02.04}
 }
 
+@INCOLLECTION{Mel'cuk2006,
+  author = {Mel'cuk, Igor},
+  title = {Levels of Dependency Description: Concepts and Problems},
+  booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
+	Forschung = Dependency and valency},
+  publisher = {de Gruyter},
+  year = {2006},
+  editor = {Ágel, Vilmos},
+  volume = {1},
+  number = {25},
+  chapter = {19},
+  pages = {188-229},
+  address = {Berlin [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
+}
+
 @BOOK{Mel'cuk2001,
   title = {Communicative Organization in Natural Language: The {Semantic-Communicative}
 	Structure of Sentences},
@@ -260,6 +331,18 @@
   address = {Amsterdam},
   month = aug,
   shorttitle = {Communicative Organization in Natural Language}
+}
+
+@BOOK{Mel'cuk1995,
+  title = {Russkij jazyk v modeli "smysl-tekst"},
+  publisher = {Skola "Jazyki Russkoj Kultury"},
+  year = {1995},
+  author = {Mel'cuk, Igor' A.},
+  volume = {39},
+  series = {Wiener slawistischer Almanach},
+  address = {Moskva [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.05}
 }
 
 @BOOK{Mel'cuk1987,
@@ -291,6 +374,23 @@
   address = {Tübingen},
   owner = {artur},
   timestamp = {2011.01.29}
+}
+
+@INCOLLECTION{Nuebler2006,
+  author = {Nübler, Norbert},
+  title = {Kontrastive Fallstudie: Deutsch - Russisch},
+  booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
+	Forschung = Dependency and valency},
+  publisher = {de Gruyter},
+  year = {2006},
+  editor = {Ágel, Vilmos},
+  volume = {2},
+  number = {25},
+  chapter = {87},
+  pages = {1207-1213},
+  address = {Berlin [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
 }
 
 @BOOK{Pelz2004,
@@ -361,6 +461,30 @@
   timestamp = {2011.02.04}
 }
 
+@MANUAL{Spengler2009,
+  title = {TFS: XML Schema f\"ur Topologische Felder},
+  author = {Spengler, Artur},
+  organization = {Justus-Liebig-Universit\"at Gie{\ss}en, Fachgebiet ASCL},
+  address = {Gie{\ss}en},
+  year = {2009},
+  note = {Interne Reports der DFG-Forschergruppe 437 "`Texttechnologische Informationsmodellierung"'},
+  owner = {artur},
+  timestamp = {2011.02.05},
+  url = {http://samba.germanistik.uni-giessen.de/~semdok/resources/FG-Report-TFS.pdf}
+}
+
+@MANUAL{Spengler2008,
+  title = {Cnx2tf: Konvertierung von FDG in topologische Felder},
+  author = {Spengler, Artur},
+  organization = {Justus-Liebig-Universit\"at Gie{\ss}en, Fachgebiet ASCL},
+  address = {Gie{\ss}en},
+  year = {2008},
+  note = {Interne Reports der DFG-Forschergruppe 437 "`Texttechnologische Informationsmodellierung"'},
+  owner = {artur},
+  timestamp = {2011.02.05},
+  url = {http://samba.germanistik.uni-giessen.de/~semdok/resources/FG-Report-cnx2tf.pdf}
+}
+
 @BOOK{Steedman2000,
   title = {The syntactic process},
   publisher = {MIT Press},
@@ -372,13 +496,39 @@
   timestamp = {2011.02.04}
 }
 
+@BOOK{Steedman2000a,
+  title = {The syntactic process},
+  publisher = {MIT Press},
+  year = {2000},
+  author = {Steedman, Mark},
+  series = {Language, speech, and communication},
+  address = {Cambridge, Mass. [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
+}
+
+@INCOLLECTION{Stepanowa1971,
+  author = {Stepanowa, Maria D.},
+  title = {Die "innere Valenz" des Wortes und das Problem der linguistischen
+	Wahrscheinlichkeit},
+  booktitle = {Beiträge zur Valenztheorie},
+  publisher = {Mouton},
+  year = {1971},
+  editor = {Helbig, Gerhard},
+  number = {115},
+  series = {Janua linguarum : Series minor},
+  pages = {133-141},
+  address = {The Hague [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
+}
+
 @BOOK{Svedova1980,
-  title = {Russkaja grammatika / Akademija Nauk SSSR, Institut Russkogo Jazyka.
-	[Red. Koll.: N. Ju. °Svedova ...]},
+  title = {Russkaja grammatika},
   publisher = {Nauka},
   year = {1980},
   editor = {Svedova, Natalija Ju.},
-  author = {Svedova, Natalija Ju.},
+  author = {Svedova, Natalija Ju. et al.},
   volume = {2. Sintaksis},
   address = {Moskva},
   owner = {artur},
@@ -394,6 +544,23 @@
   edition = {1},
   owner = {artur},
   timestamp = {2010.11.30}
+}
+
+@INCOLLECTION{Uzonyi2006,
+  author = {Uzonyi, Pál},
+  title = {Dependenzstruktur und Konstituenzstruktur},
+  booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
+	Forschung = Dependency and valency},
+  publisher = {de Gruyter},
+  year = {2006},
+  editor = {Ágel, Vilmos},
+  volume = {1},
+  number = {25},
+  chapter = {20},
+  pages = {230-246},
+  address = {Berlin [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
 }
 
 @BOOK{Weber1997,
@@ -417,5 +584,39 @@
   publisher = {Buske},
   owner = {artur},
   timestamp = {2011.01.05}
+}
+
+@INCOLLECTION{Welke2006,
+  author = {Welke, Klaus},
+  title = {Valenz und semantische Rollen: das Konzept der Theta-Rollen},
+  booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
+	Forschung = Dependency and valency},
+  publisher = {de Gruyter},
+  year = {2006},
+  editor = {Ágel, Vilmos},
+  volume = {1},
+  number = {25},
+  chapter = {37},
+  pages = {475-483},
+  address = {Berlin [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
+}
+
+@INCOLLECTION{Werner2006,
+  author = {Werner, Edeltraud},
+  title = {Das Translationskonzept Lucien Tesnières},
+  booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
+	Forschung = Dependency and valency},
+  publisher = {de Gruyter},
+  year = {2006},
+  editor = {Ágel, Vilmos},
+  volume = {1},
+  number = {25},
+  chapter = {13},
+  pages = {115-128},
+  address = {Berlin [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
 }
 
