@@ -212,6 +212,22 @@
   timestamp = {2011.02.09}
 }
 
+@INPROCEEDINGS{Helbig1995,
+  author = {Helbig, Gerhard},
+  title = {Was heisst «Tesnière aus heutiger Sicht?»},
+  booktitle = {Lucien Tesnière aujourd'hui : actes du Colloque International C.N.R.S.
+	URA 1164, Université de Rouen, 16, 17, 18 Novembre 1992},
+  year = {1995},
+  editor = {Madray-Lesigne, Françoise ; Richard-Zappella, Jeannine},
+  number = {30},
+  series = {Bibliothèque de l'information grammaticale},
+  pages = {87-90},
+  address = {Louvain [u.a.]},
+  publisher = {Peeters},
+  owner = {artur},
+  timestamp = {2011.02.10}
+}
+
 @INCOLLECTION{Hellweig2006,
   author = {Hellweig, Peter},
   title = {Parsing with Dependency Grammars},
@@ -424,6 +440,17 @@
   address = {Tübingen},
   owner = {artur},
   timestamp = {2011.01.29}
+}
+
+@WWW{Nikitinskiy2010,
+  url = {http://www.novayagazeta.ru/data/2010/145/300.html},
+  author = {Nikitinskiy, Leonid},
+  title = {Khamovni\v{c}eskiy sud lin\v{c}a},
+  year = {2010},
+  urldate = {30.12.2010},
+  language = {russian},
+  owner = {artur},
+  timestamp = {2011.02.12}
 }
 
 @INCOLLECTION{Nuebler2006,
@@ -646,4 +673,6 @@
   owner = {artur},
   timestamp = {2011.02.09}
 }
+
+@comment{jabref-entrytype: Www: req[url;author;title;year;urldate] opt[shortauthor;juraauthor;shorttitle;juratitle;gender;language;titleaddon;howcited;sortkey;annote]}
 
