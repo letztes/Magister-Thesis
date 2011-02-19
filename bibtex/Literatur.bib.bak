@@ -470,6 +470,23 @@
   timestamp = {2011.02.09}
 }
 
+@INCOLLECTION{Pasch2006,
+  author = {Pasch, Renate and Zifonun, Gisela},
+  title = {Adverbial- und Relativsätze},
+  booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
+	Forschung = Dependency and valency},
+  publisher = {de Gruyter},
+  year = {2006},
+  editor = {Ágel, Vilmos},
+  volume = {2},
+  number = {25},
+  chapter = {67},
+  pages = {921-936},
+  address = {Berlin [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
+}
+
 @BOOK{Pelz2004,
   title = {Linguistik: Eine Einf\"{u}hrung},
   publisher = {Hoffmann und Campe},
@@ -598,6 +615,16 @@
   edition = {1},
   owner = {artur},
   timestamp = {2010.11.30}
+}
+
+@BOOK{,
+  title = {Bol'soj tolkovyj slovar' russkogo jazyka},
+  publisher = {AST [u.a.]},
+  year = {2004},
+  author = {Usakov, Dmitrij N.},
+  address = {Moskva},
+  owner = {artur},
+  timestamp = {2011.02.18}
 }
 
 @INCOLLECTION{Uzonyi2006,
