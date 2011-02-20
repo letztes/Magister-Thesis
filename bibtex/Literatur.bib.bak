@@ -24,13 +24,13 @@
   address = {T\"{u}bingen}
 }
 
-@INCOLLECTION{Askedal2006,
+@INCOLLECTION{Askedal2003,
   author = {Askedal, John Ole},
   title = {Das Valenz- und Dependenzkonzept bei Lucien Tesnière},
   booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
 	Forschung = Dependency and valency},
   publisher = {de Gruyter},
-  year = {2006},
+  year = {2003},
   editor = {Ágel, Vilmos},
   volume = {1},
   number = {25},
@@ -143,6 +143,7 @@
   editor = {Gréciano, Gertrud and Schumacher, Helmut},
   number = {348},
   series = {Linguistische Arbeiten},
+  pages = {129-136},
   address = {Tübingen},
   owner = {artur},
   timestamp = {2011.02.19}
@@ -211,13 +212,13 @@
   timestamp = {2011.02.04}
 }
 
-@INCOLLECTION{Gross2006,
+@INCOLLECTION{Gross2003,
   author = {Groß, Thomas Michael},
   title = {Dependency Grammar's Limits -- and Ways of Extending Them},
   booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
 	Forschung = Dependency and valency},
   publisher = {de Gruyter},
-  year = {2006},
+  year = {2003},
   editor = {Ágel, Vilmos},
   volume = {1},
   number = {25},
@@ -244,13 +245,13 @@
   timestamp = {2011.02.10}
 }
 
-@INCOLLECTION{Hellweig2006,
+@INCOLLECTION{Hellweig2003,
   author = {Hellweig, Peter},
   title = {Parsing with Dependency Grammars},
   booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
 	Forschung = Dependency and valency},
   publisher = {de Gruyter},
-  year = {2006},
+  year = {2003},
   editor = {Ágel, Vilmos},
   volume = {2},
   number = {25},
@@ -309,13 +310,13 @@
   timestamp = {2011.02.09}
 }
 
-@INCOLLECTION{Kahane2006,
+@INCOLLECTION{Kahane2003,
   author = {Kahane, Sylvain},
   title = {The Meaning-Text Theory},
   booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
 	Forschung = Dependency and valency},
   publisher = {de Gruyter},
-  year = {2006},
+  year = {2003},
   editor = {Ágel, Vilmos},
   volume = {1},
   number = {25},
@@ -387,13 +388,13 @@
   timestamp = {2011.02.04}
 }
 
-@INCOLLECTION{Mel'cuk2006,
+@INCOLLECTION{Mel'cuk2003,
   author = {Mel'cuk, Igor},
   title = {Levels of Dependency Description: Concepts and Problems},
   booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
 	Forschung = Dependency and valency},
   publisher = {de Gruyter},
-  year = {2006},
+  year = {2003},
   editor = {Ágel, Vilmos},
   volume = {1},
   number = {25},
@@ -469,13 +470,13 @@
   timestamp = {2011.02.12}
 }
 
-@INCOLLECTION{Nuebler2006,
+@INCOLLECTION{Nuebler2003,
   author = {Nübler, Norbert},
   title = {Kontrastive Fallstudie: Deutsch - Russisch},
   booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
 	Forschung = Dependency and valency},
   publisher = {de Gruyter},
-  year = {2006},
+  year = {2003},
   editor = {Ágel, Vilmos},
   volume = {2},
   number = {25},
@@ -683,13 +684,13 @@
   timestamp = {2011.01.05}
 }
 
-@INCOLLECTION{Welke2006,
+@INCOLLECTION{Welke2003,
   author = {Welke, Klaus},
   title = {Valenz und semantische Rollen: das Konzept der Theta-Rollen},
   booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
 	Forschung = Dependency and valency},
   publisher = {de Gruyter},
-  year = {2006},
+  year = {2003},
   editor = {Ágel, Vilmos},
   volume = {1},
   number = {25},
@@ -700,13 +701,13 @@
   timestamp = {2011.02.09}
 }
 
-@INCOLLECTION{Werner2006,
+@INCOLLECTION{Werner2003,
   author = {Werner, Edeltraud},
   title = {Das Translationskonzept Lucien Tesnières},
   booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
 	Forschung = Dependency and valency},
   publisher = {de Gruyter},
-  year = {2006},
+  year = {2003},
   editor = {Ágel, Vilmos},
   volume = {1},
   number = {25},
@@ -715,6 +716,20 @@
   address = {Berlin [u.a.]},
   owner = {artur},
   timestamp = {2011.02.09}
+}
+
+@BOOK{Agel2003,
+  title = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
+	Forschung},
+  publisher = {de Gruyter},
+  year = {2003},
+  editor = {Ágel, Vilmos and Wiegand, Herbert Ernst and Eichinger, Ludwig M.},
+  author = {Ágel, Vilmos and Eichinger, Ludwig M. and Eroms, Hans-Werner},
+  number = {25},
+  series = {Handbücher zur Sprach- und Kommunikationswissenschaft},
+  address = {Berlin},
+  owner = {artur},
+  timestamp = {2011.02.20}
 }
 
 @comment{jabref-entrytype: Www: req[url;author;title;year;urldate] opt[shortauthor;juraauthor;shorttitle;juratitle;gender;language;titleaddon;howcited;sortkey;annote]}
