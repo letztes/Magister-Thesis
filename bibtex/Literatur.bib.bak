@@ -120,6 +120,23 @@
   timestamp = {2010.12.02}
 }
 
+@INCOLLECTION{Eichinger2003,
+  author = {Eichinger, Ludwig M.},
+  title = {Abhängigkeiten in der Verbalgruppe},
+  booktitle = {Dependenz und Valenz : ein internationales Handbuch der zeitgenössischen
+	Forschung = Dependency and valency},
+  publisher = {de Gruyter},
+  year = {2003},
+  editor = {Ágel, Vilmos},
+  volume = {2},
+  number = {25},
+  chapter = {62},
+  pages = {851-860},
+  address = {Berlin [u.a.]},
+  owner = {artur},
+  timestamp = {2011.02.09}
+}
+
 @CONFERENCE{Erben1995,
   author = {Erben, Johannes},
   title = {Zur Begriffsgeschichte von Wertigkeit und Valenz},
