@@ -1,0 +1,696 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Vorlage fuer akademische Arbeiten, Gestaltungsrichtlinien der
+%% Medienwissenschaft an der Universitaet Regensburg
+%% 
+%% Gutes Gelingen  --  Juli 2008
+%% Christoph Mandl und Christoph Pfeiffer
+%% http://www-mw.uni-r.de/studium/materialien 
+%%
+%% CC/BY-SA/3.0 - http://creativecommons.org/licenses/by-sa/3.0/
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\cleardoublepage
+\abstand
+\section{Syntax}
+\label{sec:syntax:allgemein}
+
+\subsection{Zum Begriff}
+\label{subsec:begriff}
+
+Syntax, (von griechisch 
+$\sigma\acute{\upsilon}\nu\tau\alpha\xi\iota\varsigma$: Anordnung) ist neben der Morphologie eine Subdisziplin der Grammatik und bezeichnet einerseits den syntaktischen Bau der Sprache und andererseits die Lehre vom Satzbau, von der Ordnung, der die Satzglieder folgen und von den Satzgliedern selbst \citep[Vgl.][11]{Gabka1989}. Linke et al. heben weitere Bedeutungen des Begriffes hervor: Syntaktik bezeichnet in der Semiotik jegliche Relation zwischen Zeichen aller Art. So spricht man z. B. Von Wortsyntax, um die Beziehungen der Morpheme zu beschreiben, und von Textsyntax, um die Beziehungen der satzübergreifenden textkonstituiernden Elemente zu beschreiben \citep[Vgl.][84]{Linke2004}. 
+
+Der Begriff der Syntax findet auch außerhalb der Untersuchung natürlicher Sprachen Verwendung, etwa in der Informatik, um die Struktur von Programmcode zu beschreiben. Ich beschränke mich allerdings auf die Bedeutung \a{Anordnung der natürlichsprachlichen Wörter zu natürlichsprachlichen Sätzen}.
+
+Linke et al. \citep[85]{Linke2004} fassen die Regeln der Syntax für deutsche Sätze folgendermaßen zusammen:
+
+\begin{zitat}
+\begin{enumerate}
+\item Damit eine Gruppe von Wörtern eine wohlgeformte Wortgruppe oder ein wohlgeformter Satz genannt werden kann, genügt es nicht, beliebige Wörter zusammenzustellen, sondern es braucht dazu ganz bestimmte Wörter, es braucht -- genauer gesagt -- syntaktische Wörter mit spezifischen Eigenschaften.
+\item Es genügt auch nicht, die passenden Wörter mit den spezifischen Eigenschaften irgendwie zusammenzustellen; vielmehr muss eine bestimmte Ordnung eingehalten werden.
+\item Damit etwas ein vollständiger Satz ist, muss ein bestimmtes Minimum an Wörtern gegeben sein.
+\end{enumerate}
+\end{zitat}
+Der Begriff \a{wohlgeformt} bedeutet so viel wie \a{akzeptabel, wenn auch nicht absolut grammatisch}. Obschon in der russischen Sprache auf Grund ihrer im Vergleich zum Deutschen mächtigereren Morphologie die Wortstellung im Satz relativ frei ist, gelten die Regeln im Großen und Ganzen ebenso fürs Russische.
+
+Um Sätze bauen zu können, muss man sich also des Lexikons einer Sprache bedienen. Diese Wörter müssen mit Hilfe der Morphologie in eine gewisse Form gebracht werden. Und schließlich braucht es gewisser Regeln, mit denen diese morphologisch modifizierten Wörter miteinander in Beziehung gebracht werden.
+Die Regeln des Satzbaus umfassen vom rein strukturalistischen Standpunkt lediglich das Vorhandensein von Satzteilen sowie ihre morphologische Beziehung zueinander -- die Morphologie ist von der Syntax nicht immer trennbar und die beiden Disziplinen werden zuweilen unter dem Begriff \a{Morphosyntax} zusammengefasst. Die sprachliche Richtigkeit allerdings erfordert darüber hinaus das Berücksichtigen semantischer Kriterien. So können nur solche Wörter miteinander kombiniert werden, deren semantische Eigenschaften wie z.B. Belebtheit, Beweglichkeit, Abstraktheit usw. miteinander kompatibel sind. Noam Chomskys vielzitiertes Beispiel für einen grammatisch korrekten, aber völlig sinnlosen Satz \a{Colorless green ideas sleep furiously}, zu deutsch etwa \a{Farblose grüne Ideen schlafen zornig}, demonstriert dies deutlich.
+
+Ein weiteres Kriterium, das im konkreten Kommunikationsprozess berücksichtigt werden muss, ist die Akzeptabilität. Grammatikalisch korrekte Sätze haben dann eine hohe Akzeptabilität, wenn sie vom Hörer problemlos verstanden werden. Die Akzeptabilität leidet z. B. dann, wenn die Satzlänge oder die Anzahl der Satzglieder die Aufnahmefähigkeit des Kurzzeitgedächtnisses des Hörers übersteigt \citep[Vgl.][149 f.]{Pelz2004}.
+
+\subsection{Sinn der Disziplin}
+\label{subsec:zweck}
+
+Wie im vorherigen Unterkapitel festgestellt, liegt die Aufgabe der Syntax darin, die Regeln zu beschreiben, nach denen Wörter zu sinnvollen, akzeptablen und richtigen Sätzen kombiniert werden. Aber braucht man einen solchen Regelapparat überhaupt? Wie sinnvoll ist es, sich Gedanken darüber zu machen, auf welche grundlegende Weise Wörter zu Satzverbunden gefasst werden? Betrachtet man die Fülle an konkurrierenden Grammatikmodellen, stellt sich zumindest die Frage, ob es eine einzige richtige Antwort überhaupt geben kann. Wäre es also nicht einfacher und naheliegender, alle möglichen Sätze in einem Sätzebuch zu inventarisieren, so wie man Wörter in Wörterbüchern sammelt, und alle Sätze, die nicht im verbindlichen Verzeichnis gelistet sind, als ungrammatisch abzutun?
+
+Man könnte es versuchen. Das Sätzebuch hätte gewaltige Ausmaße und müsste weit häufiger aktualisiert werden als jedes Lexikon. Wenngleich auch die Wortbildung Verfahren kennt, mit denen neue Wörter in die Sprache Eingang finden\footnote{Z.~B. Endung -itis an Körperteilbezeichnung = entzündliche Krankheit}, ist die Menge der entstehenden Neologismen überschaubar. Zudem hält sich die Länge der entstehenden Wörter im Rahmen des lexikographisch verwertbaren -- abgesehen von Sprachen wie dem Deutschen, wo qua Komposition zumindest theoretisch unbegrenzt lange Wortneuschöpfungen entstehen können und im Papierdeutsch zuweilen beachtliche Blüten treiben\footnote{Z.~B. Bundesausbildungsförderungsgesetz, was jedoch dankbarerweise sofort wieder zu einem kryptischen Akronym eingedampft wurde: BAFöG.}. Mit dem Satzbau verhält es sich nun aber anders, denn die Anzahl der Wörter pro Satz ist theoretisch unbegrenzt und variiert in der Praxis stark, je nach stilistischer Richtung. Müller führt die beiden folgenden Beispielsätze an, um zu demonstrieren, auf welche Weise ein Satz ins Unendliche in die Länge gezogen werden könnte.
+
+\begin{zitat}
+    \begin{enumerate}
+        \item Dieser Satz geht weiter und weiter und weiter und weiter . . .
+        \item Ein Satz ist ein Satz ist ein Satz . . .
+    \end{enumerate}
+    \citep[1]{Mueller2008} 
+\end{zitat}
+
+Womit dieses Gedankenexperiment beendet und die Frage nach dem Sinn der Disziplin beantwortet ist: Die grundlegende Bauweise zu beschreiben ist die einzig sinnvolle Herangehensweise zur Untersuchung des Satzes.
+
+Zur Mannigfaltigkeit der Syntaxtheorien bemerkt 
+
+\subsection{Traditionelle Syntax}
+\label{subsec:traditionelle:syntax}
+
+Den Begriff \a{traditionell} klar zu definieren ist nicht einfach; Linke et al. \citep[59]{Linke2004} zählen alle Modelle, die in der Vergangenheit irgendwann vorgebracht wurden, dazu. Ich gehe in diesem Abschnitt jedoch lediglich auf die Beschreibung des Satzes ein, die man unter präskriptiver \a{Schulgrammatik} versteht, d.~h. so, wie man es von der Schule her kennt.
+
+Die in der althergebrachten Syntax untersuchten Einheiten sind Wortfügung\footnote{Den Terminus \textit{Wortfügung}, im Russischen \rus{slovosoqetanie}, trifft man typischerweise in der russistischen Grammatik. In den abendländisch orientierten Strömungen ist der Begriff \textit{Phrase} geläufiger.} und Satz, wobei letzterer in einfachen und zusammengesetzten Satz unterschieden wird. Die Bestandteile der eben erwähnten syntaktischen Einheiten sind Wörter, die nächsthöhere, durch Sätze konstituierte Einheit ist der Text. Pelz merkt an, dass es schwierig ist, festzumachen, was ein \a{Satz} überhaupt ist und ob er etwa der langue oder der parole angehört \citep[Vgl.][147\, ff.]{Pelz2004}. Nichtsdestotrotz mangelt es nicht an Definitionen des Begriffs Satz; als gemeinsames Merkmal kann man die in sich abgeschlossene semantische Äußerung betrachten. Bloomfield sagt es so:
+\begin{zitat}
+Der Satz ist eine unabhängige sprachliche Form, die durch keine syntaktische Beziehung in eine größere sprachliche Form eingebettet ist.
+\citep[148]{Pelz2004}
+\end{zitat}
+Darüber hinaus zeichnet sich ein Satz durch eine gewisse formale Struktur aus, die sich durch Morphologie und Intonation äußert. Sätze bestehen aus Wörtern, allerdings nicht aus den Lexemen, wie sie im Wörterbuch stehen, sondern aus den voll flektierten Wortformen, sozusagen aus syntaktischen Wörtern \citep[Vgl.][86]{Linke2004}. Die Morphologie fügt der lexikalischen Bedeutung eine syntaktische hinzu, d.h. die einzelnen Wörter werden in eine Subjekt-Prädikat-Beziehung zueinander gesetzt. Die Intonation fügt weitere Bedeutungen hinzu. Das wichtigste Merkmal des Satzes, die Prädikativität, wird aber auf all diesen Ebenen gemeinsam realisiert \citep[Vgl.][18\,f.]{Gabka1989}.
+
+Modalität, das Verhältnis des Gesagten sowie die Einstellung des Sprechers zur Wirklichkeit, ist ein wesentliches Charakteristikum der Prädikativität. Ein weiteres Charakteristikum der Prädikativität ist die Temporalität, das zeitliche Verhältnis des Gesagten zum Redemoment. Durch die Intonation letztendlich wird nicht nur der Satztyp gekennzeichnet, sondern auch die Abgeschlossenheit des Satzes \citep[Vgl.][18\,f.]{Gabka1989}.
+
+
+\subsection{Satzgliedlehre}
+\label{subsec:satzgliedlehre}
+
+Dass ein Satz nicht bloß aus Wörtern, sondern aus komplexeren Einheiten besteht, fand man im 19. Jh. heraus. Die Satzgliedrolle ist den Wörtern und Wortgruppen jedoch nicht inhärent, sondern ergibt sich je nach Zusammenspiel mit anderen Einheiten. Um diese Einheiten zu klassifizieren und zu beschreiben entlehnte man die Begriffe Subjekt, Prädikat, Objekt usw. aus der Logiktheorie \citep[Vgl.][87]{Linke2004}.
+
+Auch Pelz \citep[Vgl.][147]{Pelz2004} erwähnt eine auf die aristotelesche Logik zurückzuführende Satzdefinition, nach der \a{ein Satz sei, was Subjekt und Prädikat hat}. Als Subjekt wird das bezeichnet, worüber etwas ausgesagt wird, und als Prädikat wird das bezeichnet, was über das Subjekt ausgesagt wird.
+
+Laut Belo\v{s}apkova \citep[697\,ff.]{Belosapkova1989} wird der Satz gebildet aus den hauptrangigen Satzgliedern Subjekt und Prädikat sowie den nebenrangigen Satzgliedern Objekt, adverbiale Bestimmung und Attribut. Satzglieder können koordiniert sein, wobei nur gleichartige Satzglieder in Frage kommen, wohingegen Subordination verschiedenartige Satzglieder erlaubt. Die Kombination aus bloßem Prädikat und bloßem Subjekt benennt Belo\v{s}apkova \textit{\rus{predikativnyi0 minimum}}, Gabka \citep[Vgl.][45\,ff.]{Gabka1989} spricht im selben Zusammenhang von \textit{Satzkonfiguration}. In den Fällen, in denen das Prädikat ein Objekt fordert, gehört auch dieses zur Satzkonfiguration.
+
+Dürscheid \citep[34]{Durscheid2010} benennt die prototypischen Merkmale des Subjekts 
+% im Deutschen\footnote{Die russische Grammatikschreibung ist damit und mit den folgenden Beschreibungen der anderen Satzglieder konform. \citep[Vgl.][]{Svedova1980}}
+wie folgt:
+
+\begin{zitat}
+    \begin{itemize}
+        \item Das Subjekt ist mit \a{wer oder was} erfragbar (semantisches Kriterium).
+        \item Das Subjekt ist das, worüber man spricht (pragmatisches Kriterium).
+        \item Das Subjekt ist kongruenzauslösend (formales Kriterium).
+        \item Das Subjekt wird in der Regel durch eine NP im Nominativ realisiert (formales Kriterium).
+        \item Das Subjekt fällt weg im Infinitiv (syntaktisches Kriterium).
+    \end{itemize}
+\end{zitat}
+
+Dürscheid (ebd.) merkt gleichwohl an, dass nicht jedes dieser Kriterien uneingeschränkt gilt, so lassen sich Beispiele (wenn auch grenzwertig akzeptable) finden, in denen das eine oder andere Kriterium scheinbar außer Kraft gesetzt ist. Im Wesentlichen kann man die Kriterien als Daumenregel gut gebrauchen.
+
+Für das Prädikat listet Dürscheid \citep[35]{Durscheid2010} die folgenden Merkmale auf:
+
+\begin{zitat}
+    \begin{itemize}
+        \item Das Prädikat ist das Satzglied, dem kategorial nur eine Wortart, ein Verb bzw. ein Verbkomplex, entspricht (formales Kriterium).
+        \item Das Prädikat bezeichnet eine auf das Subjekt bezogene Handlung, einen Vorgang oder einen Zustand (semantisches Kriterium).
+        \item Das Prädikat ist durch Kongruenz auf das Subjekt bezogen (morphologisches Kriterium).
+    \end{itemize}
+\end{zitat}
+
+Das Objekt wird bei Dürscheid \citep[36]{Durscheid2010} nach direktem Objekt und indirektem Objekt unterschieden. Für Aktivsätze gilt: Das direkte Objekt ist diejenige Entität, die \a{von dem im Verb bezeichneten Geschehen direkt betroffen ist (Patiens)}, das indirekte Objekt ist diejenige Entität, \a{auf die das Geschehen nur mittelbar gerichtet ist (Rezipient)}.
+
+\begin{zitat}
+    \begin{itemize}
+        \item Das Objekt ist Zielpunkt des verbalen Geschehens (pragmatisches Kriterium).
+        \item Das Objekt trägt die semantische Rolle des Patiens bzw. des Rezipienten (semantisches Kriterium).
+        \item Das Objekt ist im Kasus durch das Verb (z.~B. \textit{treffen} + Akkusativ) oder durch das Adjektiv gestimmt (z.~B. \textit{treu} + Dativ) (formales Kriterium).
+    \end{itemize}
+\end{zitat}
+
+Der Vollständigkeit des Begriffsfeldes halber will ich auch den Begriff \a{Agens} an dieser Stelle einführen. Dieses bezeichnet den Urheber einer Handlung und ist in der Regel durch das Subjekt realisiert.
+
+Das Adverbial definiert Dürscheid \citep[38]{Durscheid2010} wie folgt:
+
+\begin{zitat}
+    \begin{itemize}
+        \item Adverbiale Bestimmungen beziehen sich auf das Verb (z.~B. \a{Er singt laut}) oder auf den ganzen Satz (z.~B. \a{Wahrscheinlich kommt er heute nicht}) (syntaktisches Kriterium)
+        \item Adverbiale drücken die näheren Umstände des Geschehens aus: den Ort (Lokaladverbial), die Zeit (Temporaladverbial), die Art und Weise (Modaladverbial), den Grund (Kausaladverbial) u.~a. (semantisches Kriterium).
+        \item Adverbiale können realisiert werden als Adverbien (z.~B. \a{Er weinte sehr}), als PPs (z.~B. \a{Das Buch liegt auf dem Tisch}), als NPs (z.~B. \a{Er tanzte die ganze Nacht}) und als Nebensätze (z.~B. \a{Er tanzte, bis die Sonne aufging}) (formales Kriterium).
+    \end{itemize}
+\end{zitat}
+
+Das Attribut ist zwar kein Satzglied, stellt jedoch einen wichtigen Teil des tradtionellen syntaktischen Vokabulars dar und sollte darum an dieser Stelle nicht fehlen. Dürscheid definiert das Attribut \citep[43]{Durscheid2010} wie folgt:
+
+\begin{zitat}
+    \begin{itemize}
+        \item Das Attribut ist eine Beifügung zum Substantiv oder zum Adjektiv. Es ist nicht selbst Satzglied, sondern Teil eines Satzglieds (syntaktisches Kriterium).
+        \item Als Attribute können verschiedene syntaktische Kategorien fungieren: APs (\a{kleine Kinder}), PPs (\a{das Buch auf dem Tisch}), NPs (\a{die Freundin meiner Nachbarin}), abhängige Sätze (\a{der Mann, der im Lotto gewonnen hat}) (formales Kriterium).
+        \item Vom Prädikat abgesehen kann jdes Satzglied durch ein Attribut erweitert werden (syntaktisches Kriterium).
+    \end{itemize}
+\end{zitat}
+
+
+
+
+%TODO Thema und Rhema durch andere Quellen als Gabka belegen
+\subsection{Thema und Rhema}
+\label{subsec:thema:rhema}
+
+Ein Satz lässt sich unterteilen in eine Subjektgruppe und eine Prädikatgruppe; zu letzterer werden auch die nebenrangigen Glieder gezählt. Je nach dem, welche der beiden Gruppen das Thema und welche das Rhema darstellt, entscheidet sich die aktuelle Gliederung des Satzes. Das Thema steht als Bindeglied zum vorhergehenden Text normalerweise vorn, das Rhema steht als das Neue und Wichtige hinten \citep[147\,f.]{Pelz2004}. In dialogischer Rede verzichtet man oft auf das Thema, so dass strukturell unvollständige Sätze, die nur aus dem Rhema bestehen, entstehen \citep[Vgl.][23\,f.]{Gabka1989}.
+
+Intonation wird als Mittel zum Hervorheben des Rhemas eingesetzt. Im Schriftlichen jedoch ist allein die Wortstellung von Belang. Abweichungen vom Muster Thema-Rhema sind durch Inversion möglich: Insbesondere Fragesätze zeichnen sich dadruch aus, dass das Rhema häufig in form eines Interrogativpronomens am Anfang steht \citep[Vgl.][24\,ff.]{Gabka1989}.
+
+%Die semantisch-intonatorische Einheit ist das Syntagma. Ein Syntagma kann aus einem Wort, einer Wortfügung oder einer prädikativen Einheit bestehen, Voraussetzung ist, es bildet eine zusammenhängende, relativ abgeschlossene semantische Einheit. Diese ist innerhalb des Satzes verschiebbar. Für das russische Syntagma ist eine lineare Anordnung der Bestandteile typisch. Ein Syntagma ist rhythmisch-melodisch hervorgehoben. Die syntagmatische Gliederung hängt mit der aktuellen Gliederung eng zusammen \citep[Vgl.][27\,ff.]{Gabka1989}.
+
+\subsection{Komplexe Sätze}
+\label{subsec:komplexe:saetze}
+
+Die historische Entwicklung des komplexen Satzes aus einer Reihe von einfachen Sätzen spiegelt die zunehmend komplexe Auseinandersetzung der Menschen mit der Welt wider. Diese ursprüngliche, formal nicht verbundene Abfolge gedanklich zusammenhängender Sätze heißt asyndetische Parataxe (\rus{asindeticheski\"i parataksis}). Wenn die an sich eigenständigen einfachen Sätze durch Konjunktionen verbunden sind, spricht man von syndetischer Parataxe.
+
+Aus der Parataxe entwickelte sich die Hypotaxe, das Satzgefüge. Zunächst mussten aber die dazu notwendigen Bindemittel entwickelt werden. Die älteste Form des Nebensatzes ist der anaphorische Relativsatz. Das Bindemittel zwischen Haupt- und Nebensatz ist ein Relativpronomen oder Relativadverb. Diese nehmen die Rolle des Subjekts im Nebensatz ein. Die subordinierenden Konjunktionen verbinden bloß, während die Korrelative (\rus{sootnositelp1noe slovo}) auf den nachfolgenden Nebensatz verweisen, der die eigentliche Information enthält. Korrelative haben Satzgliedfunktion.
+
+Komplexe Sätze ohne formale Bindemittel können nicht immer klar nach Hypotaxe oder Parataxe unterschieden werden, da es manchmal möglich ist, sowohl koordinierende Konjunktionen als auch subordinierende Mittel einzusetzen. Der Kontext kann hilfreich sein \citep[Vgl.][XX\,ff.]{Gabka1989}.
+
+Das Satzgefüge unterteilt sich in Hauptsatz und Nebensatz, wobei die Bezeichungen Haupt- und Neben- sich nicht auf den Inhalt beziehen, denn der Nebensatz kann durchaus die eigentliche Satzinformation tragen. Die aktuelle Gliederung ist davon unberührt. Die Termini beziehen sich auf rein formale Aspekte; der Nebensatz ist dem Hauptsatz auf syntaktischer Ebene untergeordnet.
+
+Tatsächlich haben viele Nebensätze die Funktion eines Satzglieds, andere nicht. Bei letzteren handelt es sich um weiterführende Nebensätze, die eine zusätzliche Ergänzung darstellen \citep[Vgl.][149\,f.]{Gabka1989}.
+
+Abschließend sei angemerkt, dass ein komplexer Satz, wie er in der heutigen russischen Sprache beobachtet wird, in semantischer Hinsicht keineswegs auf eine Verbindung eigenständiger einfacher Sätze reduziert werden darf. Derweil ein Hauptsatz ohne seine Nebensätze als abgeschlossene semantische Einheit durchgeht, gilt dies mitnichten für einen Nebensatz, wenn er von seinem Hauptsatz getrennt betrachtet wird; die Satzproposition verändert sich aber in beiden Fällen zwangsläufig. Dies gilt ebenso für die Parataxe \citep[Vgl.][719\,f.]{Belosapkova1989}.
+
+\subsection{Syntaktische Besonderheiten}
+\label{subsec:syntaktische:besonderheiten}
+
+Äußerungen und Gedanken einer fremden Person werden durch spezifische syntaktische Konstruktionen wiedergegeben. Eingeleitet wird die fremde Rede (\rus{chuzhaya rechp1}) durch Verben des Sagens. Man unterscheidet die fremde Rede in direkte und indirekte Rede (\rus{pryamaya rechp1} und \rus{kosvennaya rechp1}), eine Mischform ist die erlebte Rede (\rus{nesobstvenno-pryamaya rechp1}). Im Kommunikationsprozess ist direkte und indirekte Rede vorherrschend, in der Belletristik kommt auch die erlebte Rede als stilistisches Mittel vor.
+
+Die direkte Rede eignet sich, um mittels Intonation und Wortwahl den eigentlichen Urheber der Rede zu charakterisieren. Vom syntaktischen Standpunkt betrachtet ist die direkte Rede ein Nebensatz, der konjunktionslos von der einleitenden, selten nachgestellten oder mit der direkten Rede durchmischten Autorenrede (\rus{avtorskaya rechp1}) abhängt. 
+Auch die indirekte Rede kann vor, nach, inmitten der Autorenrede oder um sie herum stehen und bildet einen von der Autorenrede abhängigen Nebensatz. 
+Die erlebte Rede steht normalerweise nach der Autorenrede und ist entweder syntaktisch als Objektsatz oder als eigenständiger Satz realisiert \citep[Vgl.][187\,ff.]{Gabka1989}. 
+
+\subsection{Weitergehende Theorien}
+\label{subsec:weitergehende:theorien}
+
+Mit dem amerikanischen Strukturalismus bildeten sich neue Syntaxtheorien wie z.~B. Konstituentenstrukturgrammatik oder die Dependenzgrammatik, die eine eigene Terminologie entwickelten und sich zunehmend vom Konzept der klassischen Satzgliedlehre lösten \citep[Vgl.][87]{Linke2004}. Die Motivation zur Entwicklung alternativer Grammatikmodelle besteht unter anderem darin, dass die klassische Satzgliedlehre nicht sicher definieren kann, was ein Satzglied ist, denn die Kriterien zur Unterscheidung der Glieder sind uneinheitlich: Während Objekte der Form nach bestimmt werden (Akkusativ-Endung, Dativ-Endung, usw.), werden Adverbiale semantisch subklassifiziert (Ort, Zeit, usw.) Im Satz
+\begin{zitat}
+Ich hänge das Bild an die Wand
+\end{zitat}
+\noindent kann nicht einwandfrei entschieden werden, ob es sich bei \a{an die Wand} um ein Objekt oder eine Adverbialbestimmung handelt \citep[Vgl.][88]{Linke2004}. Im selben Maße unklar ist sogar die Bestimmung des Subjekts: Ist im Satz
+\begin{zitat}
+Dem Lehrer ist ein Fehler unterlaufen
+\end{zitat}
+\noindent \textit{dem Lehrer} oder \textit{ein Fehler} das Subjekt? Laut heute gängiger Praxis, das Subjekt nach formalen Gesichtspunkten zu bestimmen, müsste es \textit{ein Fehler} sein, also diejenige Einheit, die im Nominativ steht. Laut ursprünglicher logischer Definition des Begriffs \textit{Subjekt}, wonach das ein Subjekt ist, worüber etwas ausgesagt wird, müsste es aber \textit{der Lehrer} sein \citep[Vgl.][32]{Durscheid2010}.
+
+
+
+%*********************************************************************
+% Dependenzgrammatik *************************************************
+%*********************************************************************
+\clearpage
+\abstand
+\section{Dependenzgrammatik}
+\label{sec:depenzgrammatik}
+
+%Die Dependenzgrammatik hat insbesondere auf Grund ihrer starken Formalisierbarkeit und daraus resultierenden Verarbeitbarkeit mit Hilfe elektronischer Maschinen enorm an Bedeutung gewonnen.
+%Ein mit der Dependenzgrammatik verwandtes und von ihr nicht zu trennendes Konzept ist das der Verbvalenz.
+
+Die Dependenzgrammatik wurde von Lucien Tesnière während seiner Kriegsgefangenschaft im Ersten Weltkrieg entwickelt \citep[11]{Weber1997}, in den 30er Jahren des 20. Jahrhunderts war die Theorie im Wesentlichen so weit, dass Tesniére sie hätte veröffentlichen können \citep[32]{Agel2000}. Publiziert wurde sein Hauptwerk \textit{Éléments de syntaxe structurale} jedoch postum 1959 von seiner Frau und seinen Schülern, Tesniére starb 1954. Im Laufe der Zeit beeinflusste und beförderte Tesniéres Modell der Dependenz und Regenz in der Beschreibung des Satzbaus eine Reihe weiterer Theorien, wie z.~B. die Lexikalisch-Funktionale Grammatik oder die Head-Driven Phrase Structure Grammar.
+
+Kerngegenstand der Dependenzgrammatik nach Tesnière ist die innere Ordnung, der die Wörter in einem Satz folgen. Tesnière spricht von der \textit{ordre structural}, die er der \textit{ordre linéaire} gegenüber stellt. Realisiert wird die Strukturordnung durch drei Relationstypen, nämlich
+\begin{itemize}
+    \item Konnexion
+    \item Junktion
+    \item Translation
+\end{itemize}
+Die Konnexion ist die grundlegende Verbindung zwischen Wörtern. Erst die Konnexion macht aus den Wörtern ein größeres Gebilde, dessen Bedeutung mehr ist als die einzelnen Bedeutungen der Wörter. Deshalb betrachtet man bei der Beschreibung eines Satzes die Relation als eine Komponente neben den Wörtern \citep[Vgl.][21]{Weber1997}.
+
+Allerdings taugt nicht jede Wortart zur Bildung von Konnexionen, sondern nur solche, die selbst semantisch \a{gefüllt} sind, also lexikalische Bedeutung tragen. Allgemein bezeichnet man die Satzelemente, die durch Autosemantika realisiert werden, als Knoten oder Nuclei (Sg. Nucleus), Konnexionen finden also zwischen Nuclei statt. Nuclei werden stets in einem hierarchischen System angeordnet: ein Nucleus ist immer einem anderen unter- oder übergeordnet, bzw. er hängt von ihm ab oder ist abhängig von einem anderen Nucleus. Daher der Name Dependenzgrammatik.
+
+\subsection{Wörter}
+\label{subsec:woerter}
+
+Tesnière entwickelte eine eigene Terminologie für Wörter, die er in die zwei Gruppen \textbf{Vollwörter} und \textbf{Leerwörter} unterteilte. Vollwörter sind Wörter, die eigene lexikalische Bedeutung tragen, Leerwörter haben lediglich eine grammatische Funktion im Satz (z.~B. Artikel, Präpositionen etc.):
+\begin{zitat}
+    Volle Wörter nennen wir die mit semantischer Funktion, also die, deren Ausdrucksform unmittelbar mit einer Vorstellung verbunden ist, die sie darzustellen bzw. hervorzurufen haben. [...] Leere Wörter nennen wir die ohne semantische Funktion. Sie sind bloße grammatische Hilfsmittel, deren Aufgabe einzig darin besteht, die Kategorie der vollen Wörter anzugeben, zu präzisieren oder auch zu ändern und die Beziehungen zwischen vollen Wörtern zu regeln. \citep[28]{Tesniere1980}
+\end{zitat}
+Vollwörter werden unterteilt in die vier Klassen Verb, Substantiv, Adjektiv (Epitheton) und Adverb (siehe Tabelle \ref{tab:vollwoerter}).
+
+\begin{table}
+    \begin{center}
+        \begin{tabular}{ l  l }
+            Klasse & Beispiel\\
+            \hline
+            Verb & \rus{poséitp1}\\
+            Substantiv & \rus{képka}\\
+            Adjektiv (Epitheton) & \rus{stáryi0}\\
+            Adverb & \rus{nebréz1nyi0}
+        \end{tabular}
+    \caption{Vollwörter}
+    \label{tab:vollwoerter}
+    \end{center}
+\end{table}
+
+Leerwörter unterteilt man in die beiden Klassen Junktoren und Translatoren (siehe Tabelle \ref{tab:leerwoerter}).
+
+\begin{table}
+    \begin{center}
+        \begin{tabular}{ l  l }
+            Klasse & Beispiel\\
+            \hline
+            Junktor & \rus{i}\\
+            Translator & \rus{chto}\\
+        \end{tabular}
+        \caption{Leerwörter}
+        \label{tab:leerwoerter}
+    \end{center}
+\end{table}
+
+Gesondert zu erwähnen sind die Indizes, die als Indikatoren für grammatische Funktion dienen (z.~B. Artikel). Auch Anaphernwörter nehmen eine Sonderstellung ein, da sie einerseits lexikalisch Leerwörter sind, im Satz aber Vollwörtern gleich Nuclei darstellen (siehe Abbildung \ref{fig:woerter} \citep[25]{Weber1997}).
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/woerter}
+        \caption{Wörter}
+        \label{fig:woerter}
+    \end{center}
+\end{figure}
+
+Satzwörter werden zwar als von den eigentlichen Wortklassen gesonderte Kategorie dargestellt, können jedoch prinzipiell durch jedes Vollwort realisiert werden. Typischerweise erscheinen in der Funktion des Satzwortes Wörter, die sich schwerlich als Autosemantika einstufen lassen. Es sind die logischen und affektiven Satzwörter (siehe Tabelle \ref{tab:satzwoerter}).
+
+\begin{table}
+    \begin{center}
+        \begin{tabular}{ l  l }
+            Klasse & Beispiel\\
+            \hline
+            Logisches Satzwort & \rus{net}\\
+            Affektives Satzwort & \rus{ah!}\\
+        \end{tabular}
+        \caption{Satzwörter}
+        \label{tab:satzwoerter}
+    \end{center}
+\end{table}
+
+\subsection{Stemma}
+\label{subsec:stemma}
+
+Das Stemma (Pl. Stemmata) ist ein Diagramm zur Darstellung der Dependenzstruktur eines Satzes. Es besteht aus Kanten: Nichthorizontalen Linien, die das jeweilige Regens (Pl. Regentien) mit seinem Dependens (Pl. Dependentien) verbinden, wobei das Regens über dem Dependens positioniert ist. Die Wörter selbst konstituieren die Knoten, die durch Kanten verbunden werden. Um Regelmäßigkeiten der Dependenz in einer Sprache oder auch sprachübergreifend darstellen zu können, entwickelte Tesnière Symbole für Knoten bzw. Vollwort-Klassen:\\
+\\
+I für Verb\\
+O für Substantiv\\
+A für Adjektiv\\
+E für Adverb\\
+
+Außer den Wörtern aus diesen vier Klassen gibt es keine anderen, die Knoten bilden könnten. Das bedeutet, dass z.~B. Artikel zusammen mit dem Substantiv, das sie näher bestimmen, in einen Knoten geschrieben werden und nicht etwa als Dependens unterhalb des Substantivs positioniert würden\footnote{Weber macht dies jedoch durchgehend. Er beruft sich fragwürdigerweise darauf, dass Indizes manchmal -- etwa im Falle der den Substantiven äquivalenten Pronomina -- als Vollwortklasse behandelt werden \citep[Vgl.][42]{Weber1997}.}.
+
+Die folgenden zwei Wortklassen bilden zwar keine Knoten, werden aber aufgrund ihrer Strukturrelevanz im Stemma explizit notiert:\\
+\\
+j für Junktor (siehe Kapitel \ref{subsec:junktion})\\
+t für Translator (siehe Kapitel \ref{subsec:translation})\\
+\\
+Grundsätzlich gelten Dependenzbeziehungen, wie in Tabelle \ref{tab:dependenzbeziehungen} dargestellt.
+
+\begin{table}[htbp]
+    \begin{center}
+        \begin{tabular}{ c | l }
+            Regens & mögliches direktes Dependens\\
+            \hline
+            I & O, E\\
+            O & A\\
+            A & E\\
+            E & E\\
+        \end{tabular}
+        \caption{Dependezbeziehungen zwischen Wortarten}
+        \label{tab:dependenzbeziehungen}
+    \end{center}
+\end{table}
+
+Ágel \citep[37\,f.]{Agel2000} demonstriert dies anhand des Satzes \textit{Sehr schöne Frauen vergessen extrem hässliche Männer äußerst schnell}, das ein Stemma ergibt, wie in Abbildung \ref{fig:dependenzbeziehungen:beispielsatz} dargestellt.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/dependenzbeziehungen_beispielsatz}
+        \caption{Dependezbeziehungen zwischen Wortarten: Ein Beispiel}
+        \label{fig:dependenzbeziehungen:beispielsatz}
+    \end{center}
+\end{figure}
+
+Tabelle \ref{tab:dependenzbeziehungen} illustriert die besondere Bedeutung des Verbs. Es gibt allerdings auch Sätze, die ohne Verb auskommen, siehe Tabelle \ref{tab:satztypen}.
+
+\begin{table}[htbp]
+    \begin{center}
+        \begin{tabular}{ l | l }
+            Satztyp & Beispiel\\
+            \hline
+            Substantivsatz & Eine Frau fürs Leben\\
+            Adjektivsatz & Ehrlich?\\
+            Adverbialsatz & Leider!\\
+        \end{tabular}
+        \caption{Verblose Satztypen}
+        \label{tab:satztypen}
+    \end{center}
+\end{table}
+
+Viele Sprachen verwenden morphologische Formen, die aus mehreren Wörtern zusammengesetzt sind, z.~B. wird Passiv, Futur oder Perfekt im Deutschen mit Hilfe von Auxiliarverben ausgedrückt. Für diese Fälle gibt es in der Dependengrammatik das Konzept des mehrteiligen Nucleus \citep[Vgl.][29]{Weber1997}. Das Hilfswort wird als Auxiliar bezeichnet und dem eigentlichen Knoten, dem Auxiliat, links angefügt, siehe Abbildung \ref{fig:mehrteiliger:nucleus}.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/mehrteiliger_nucleus}
+        \caption{Mehrteiliger Nucleus}
+        \label{fig:mehrteiliger:nucleus}
+    \end{center}
+\end{figure}
+
+Anaphorische -- und ebenso kataphorische, aus struktureller Sicht besteht kein Unterschied -- Relationen werden durch eine unterbrochene Linie dargestellt \citep[Vgl.][84]{Tesniere1980}. Anaphorische Relationen können sich satzübergreifend erstrecken, siehe Abbildung \ref{fig:anapher}.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/anapher}
+        \caption{Satzinterne und -übergreifende Anaphern}
+        \label{fig:anapher}
+    \end{center}
+\end{figure}
+
+Anders verhält sich das Hilfsverb \textit{sein} in Verbindung mit prädikativen Adjektiven, Adverbien oder Prädikatsnomina. In diesen Fällen muss es als Vollverb betrachtet werden.
+
+\subsection{Valenz}
+\label{subsec:valenz}
+
+Ein zentrals Konzept der Dependenzgrammatik ist die Valenz. Es stammt ursprünglich aus der Chemie, wo es die Fähigkeit bzw. Neigung von Atomen beschreibt, Leerstellen in der Konfiguration der äußeren Elektronenschale bei Bildung von Verbindungen zu anderen Atomen aufzufüllen. Analog bezeichnet Valenz in der Syntax die Fähigkeit oder Neigung von Wörtern, durch andere Wörter semantsich vervollständigt zu werden. So hat das Substantiv \textit{Schwester} in der Bedeutung \textit{Verwandtschaftsverhältnis} eine Leerstelle (\textit{wessen} Schwester?), die unbedingt gefüllt werden muss\footnote{Das Konzept der Substantivvalenz sowie der Valenz aller Wortarten ist nach Tesnière entwickelt worden. Diese Valenz aller Wortarten wird als semantische Valenz bezeichnet und fand insbesondere in der russistischen Grammatikschreibung großen Anklang. Tesnière sah eine rein syntaktische Valenz vor, die nur Verben vorbehalten war. (\citealp[Vgl.][1209]{Nuebler2003}; \citealp[Vgl. auch][89]{Helbig1995})}. Der Satz \textit{Schwester trat zur Tür hinein} ist nicht vollständig, der Satz \textit{Pascals Schwester trat zur Tür hinein} hingegen schon.
+
+In der Dependenzgrammatik spielt die Valenz des Verbs eine besonders wichtige Rolle, weil sich dadurch die Struktur des Satzes entscheidet; Tesnière spricht ausschließlich von Verbvalenz \citep[Vgl.][47\,ff.]{Agel2000}, und selbst da gesteht er lediglich den Vollverben Valenzfähigkeit zu. Diejenigen Nuclei, die das Verb unbedingt braucht, um seine Leerstellen zu füllen und somit einen grammatischen Satz zu bilden, nannte Tesnière \textit{Aktanten}. Dabei handelt es sich um Satzelemente, die man in der traditionellen Grammatik als Subjekt und Objekt bezeichnen würde. Daneben sind in der Dependenzgrammatik Satzelemente vorgesehen, die zwar dem Verb unmittelbar untergeordnet sind, deren Präsenz jedoch anders als bei den Aktanten nicht obligatorisch ist. Diese fakultativen Nuclei nannte Tesnière \textit{Circumstanten}. Üblicherweise beschreiben Circumstanten die Handlung näher, ohne an ihr beteiligt zu sein, so wie man es vom Adverbiale kennt \citep[Vgl.][34]{Weber1997}.
+
+Tesnière vergleicht den Satz mit einem Theaterstück, dessen Handlung durch das Verb ausgedrückt wird. Substantive (Aktanten) sind die Akteure des Stücks und somit auf gleiche Weise allesamt der Handlung untergeordnet.
+\begin{zitat}
+    Die Aktanten sind Wesen oder Dinge, die auf irgendeine Art, sei es auch nur passiv, gewissermaßen als bloße Statisten, am Geschehen teilhaben. \citep[93]{Tesniere1980}
+\end{zitat}
+
+Dem gegenüber stehen die Umstände des Geschehens (Circumstanten) gleichsam als Kulisse des Theaterstücks im Hintergrund.
+\begin{zitat}
+    Die Angaben bezeichnen Umstände der Zeit, des Ortes, der Art und Weise usw., unter denen sich das Geschehen vollzieht. \citep[93]{Tesniere1980}
+\end{zitat}
+
+Circumstanten füllen keine Leerstellen und ihre Anzahl ist nicht begrenzt. Die Anzahl der Aktanten indes ist auf maximal drei begrenzt.
+
+\begin{zitat}
+    Wenn man die periphrastischen Formen mit tetravalenter Struktur einmal beiseite läßt, [...] scheint es, daß in keiner Sprache einfache Verbformen mit mehr als drei Valenzen vorhanden sind. \citep[179]{Tesniere1980}
+\end{zitat}
+
+Tesnière schlägt aber zugleich Prozeduren zur Erhöhung und Erniedrigung der Aktantenzahl vor. Um die Aktantenzahl zu erhöhen, bedarf es eines Verbs mit der Bedeutung \textit{jemanden veranlassen etwas zu tun}, z.~B. \textit{lassen}. Dieses Verfahren nennt Tesnière Kausativierung \citep[181\,ff.]{Tesniere1980}. 
+
+Das Verfahren zur Reduktion der Aktantenzahl nennt Tesnière Reflexivierung \citep[193\,ff.]{Tesniere1980}. Allerdings argumentiert Weber, dass Kausativierung ebensogut durch Translation (siehe Kapitel \ref{subsec:translation}) erklärt werden kann. Bei Reflexivierung kann das Reflexivpronomen durchaus als Aktant angesehen werden, sofern es sich noch um das gleiche Verb handelt \citep[Vgl.][41]{Weber1997}.
+
+In der Regel beträgt die maximal mögliche Anzahl der Aktanten, die ein Verb haben kann, drei. Sie werden semantisch in folgender Weise unterschieden:\\
+1. Aktant: Agens (trad. Subjekt/Substantiv im Nominativ)\\
+2. Aktant: Patiens (trad. direktes Objekt/Akkusativ-Objekt)\\
+3. Aktant: Rezipient (trad. indrektes Objekt/Dativ-Objekt)\\
+ \citep[Vgl.][100\,f]{Tesniere1980}\\
+Siehe auch Tabelle \ref{tab:aktantenanzahlsaetze}.
+
+\begin{table}[htbp]
+    \begin{center}
+        \begin{tabular}{ l | l }
+            Beispielsatz & Anzahl der Aktanten\\
+            \hline
+            \rus{Svetáet.} & 0\\
+            \rus{J1 gul"|j1"|j2.} & 1\\
+            \rus{Paskálp1 pokupáet j1bloki.} & 2\\
+            \rus{Iván dárit máme cvetý.} & 3\\
+        \end{tabular}
+        \caption{Beispielsätze mit verschieden vielen Aktanten}
+        \label{tab:aktantenanzahlsaetze}
+    \end{center}
+\end{table}
+
+Nübler erwähnt die Möglichkeit regulär vierwertiger Verben:
+
+\begin{zitat}
+    Als vierwertig bzw. quadrovalent können evtl. eingestuft werden \rus{nagraditp1} \a{belohnen (jdn. mit etw. für etw.)} und einige andere Verben. Diese relativ kleine Gruppe von quadrovalenten Verben wurde von Tesnière noch nicht berücksichtigt.
+    \citep[1207]{Nuebler2003}
+\end{zitat}
+
+In Sprachen wie den romanischen, wo etwa das Subjekt oftmals nicht als eigenständiges Lexem, sondern als Verbflexiv realisiert wird, muss das Subjekt nichtsdestotrotz in der Wertigkeit entsprechend berücksichtigt werden. Das Phänomen hat gewisse Ähnlichkeiten mit den elliptischen Auslassungen (siehe Kapitel \ref{subsec:auslassungen}), ist jedoch in der betreffenden Sprache als Regel und nicht als Ausnahme zu betrachten \citep[Vgl.][215\,ff]{Agel2000}.
+
+Das Kriterium zur Unterscheidung zwischen Aktanten und Circumstanten ist formaler Natur. Während Aktanten stets durch Substantive oder Äquivalente wie Pronomina realisiert werden, bilden Adverbien oder deren Äquivalente die Angaben \citep[Vgl.][79]{Ramers2000}.
+
+
+\subsection{Auslassungen}
+\label{subsec:auslassungen}
+
+Es gibt Sätze, die formal unvollständig scheinen, jedoch als völlig akzeptabel wahrgenommen werden und im Allgemeinen auch nicht als ungrammatisch gelten. Dazu gehören Ellipsen z.~B. \textit{Am morgen wurde Geld gewaschen, am Abend die Gehirne.} oder Imperative \textit{Sing!}. Ebenso fehlt Passivsätzen ohne Angabe des Agens' etwas, nämlich dann, wenn das Agens nicht durch den Kontext bereits klar ist. Derartige Auslassungen können auf zweierlei Weisen im Stemma dargestellt werden.
+\begin{enumerate}
+	\item Durch Notation des fehlenden Aktanten und seiner Nummer in eckigen Klammern direkt hinter dem Verb, siehe Abbildung \ref{fig:auslassung1}.
+	\item Durch Ausformulierung der fehlenden Kante, wobei das Knotensymbol in eckigen Klammern steht, siehe Abbildung \ref{fig:auslassung2}.
+\end{enumerate}
+In beiden Varianten wird für das Knotensymbol ein waagrechter Strich verwendet, wenn der Aktant nicht bekannt ist. \citep[Vgl.][36]{Weber1997}.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/auslassung1}
+        \caption{Notation von Auslassungen mit Angabe des fehlenden Aktanten direkt beim Verb}
+        \label{fig:auslassung1}
+    \end{center}
+\end{figure}
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/auslassung2}
+        \caption{Notation von Auslassungen mit Angabe des fehlenden Aktanten als Knoten}
+        \label{fig:auslassung2}
+    \end{center}
+\end{figure}
+
+\subsection{Fragesätze und Negationen}
+\label{subsec:fragesaetze:negationen}
+
+In vielen Sprachen sind invertierte Wortstellung sowie eine spezifische Intonation Merkmale von Fragesätzen. Diese Kriterien können jedoch bei der dependenzgrammatischen Darstellung der Satzstruktur nicht berücksichtigt werden, sodass lediglich das Fragezeichen (und evtl. Fragepartikeln) als Indikator für das Vorliegen eines Fragesatzes taugt. Dieses wird im Stemma demjenigen Nucleus vorangestellt, auf den sich die Frage bezieht, meist ist es das Interrogativpronomen. Tesnière unterscheidet zwischen Nucleusfrage (Biespiel siehe Abbildung \ref{fig:nucleusfrage}) und Konnexionsfrage, (Beispiel siehe Abbildung \ref{fig:konnexionsfrage}). Im Falle der letzteren wird das Fragezeichen dem Zentralnucleus vorangestellt, das in der Regel durch ein Verb realisiert wird. \citep[Vgl.][37\,f]{Weber1997}.
+In ähnlicher Weise verfährt man mit Negationen. Für Negationen gilt neben dem Vorhandensein einer Negationspartikel auch die Intonation als Unterscheidungskriterium. Während letzteres, wie bereits erwähnt, bei der Strukturdarstellung ausscheidet, stellt sich beim ersteren die Frage, auf welchen Nucleus es sich bezieht. Demjenigen Nucleus, der negiert wird, stellt man die Negationspartikel voran. Beispiel siehe Abbildung \ref{fig:negation}
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/nucleusfrage}
+        \caption{Nucleusfrage}
+        \label{fig:nucleusfrage}
+    \end{center}
+\end{figure}
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/konnexionsfrage}
+        \caption{Konnexionsfrage}
+        \label{fig:konnexionsfrage}
+    \end{center}
+\end{figure}
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/negation}
+        \caption{Negation}
+        \label{fig:negation}
+    \end{center}
+\end{figure}
+
+\subsection{Apposition}
+\label{subsec:apposition}
+
+Es gibt syntaktische Konstruktionen, in denen man von keiner hierarchischen Beziehung der Komponenten sprechen kann, sondern sie gleichwertig nebeneinander stellen muss. Dies ist z.~B. Der Fall im Satz \textit{Berlin, die Hauptstadt, beherbergt mehrere Universitäten.} Sowohl das Substantiv \textit{Berlin} als auch die Nominalphrase \textit{die Hauptstadt} teilen die gleiche syntaktische Funktion und haben zugleich den selben semantischen Gehalt. Mehr noch, sie sind gegeneinander austauschbar, ohne dass sich dies in struktureller oder semantischer Hinsicht auf den Satz niederschlagen würde und können also nicht in eine Regens-Dependens-Beziehung gebracht werden.
+
+Folgerichtig sieht Tesnière für das Phänomen der Apposition deshalb eine waagerechte Konnexionslinie vor \citep[Vgl.][140]{Tesniere1980}. Beispiel siehe Abbildung \ref{fig:apposition}.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/apposition}
+        \caption{Apposition}
+        \label{fig:apposition}
+    \end{center}
+\end{figure}
+
+
+\subsection{Junktion}
+\label{subsec:junktion}
+
+Bisher habe ich lediglich einfache Sätze behandelt, die aus einfachen 
+Knoten bestehen. Auf das Problem der komplexen Sätze gehe ich im Kapitel 
+\ref{subsec:translation} ein. Durch Junktion zusammengesetzte 
+Nuclei erläutere ich hier.
+
+Betrachtet man einen Satz wie \textit{Kühe und Ziegen grasen}, stellt sich die Frage, ob das Verb \textit{grasen} einwertig 
+oder zweiwertig ist, und wenn es zweiwertig ist, ob die Wörter 
+\textit{Kühe} und \textit{Ziegen} beide den Status des Erstaktanten 
+hätten, und wenn nicht, welcher von ihnen der Zweit- oder gar 
+Drittaktant sein sollte.
+
+Da der Zweitaktant laut Definition die Rolle das Patiens', der 
+Dritteaktant die Rolle des Rezipienten hat (siehe Kapitel 
+\ref{subsec:valenz}), scheidet die zuletzt genannte Option aus. Dass mehrere 
+Aktanten den selben Status, etwa den des Zweitaktanten, haben können, 
+ist möglich \citep[39\,f.]{Weber1997}. Im Falle der 
+Junktion jedoch entscheidet sich Tesnière für die zuerst genannte 
+Variante, nämlich die jeweils jungierten Knoten zusammenzufassen und mit dem so entstandenen Bündel eine Verbleerstelle zu füllen, siehe Abbildung \ref{fig:junktion1}. Allerdings sind -- bei unveränderter Valenz des Verbs -- alle beteiligten Nuclei des Bündels als Aktanten zu betrachten; es findet eine Vervielfachung der Aktanten statt und der Satz enthalte mehr Aktanten als zuvor.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/junktion1}
+        \caption{Junktion zweier Erstaktanten}
+        \label{fig:junktion1}
+    \end{center}
+\end{figure}
+
+\begin{zitat}
+    In dem Satz \textit{Alfred und Bernhard fallen} fungieren \textit{Alfred} und \textit{Bernhard} jeweils als erster Aktant. Folglich ist der erste Aktant, da durch zwei verschiedene Personen verkörpert, hier verdoppelt.
+    
+    Man sollte auf keinen Fall sagen, daß dieser Satz zwei Aktanten enthält, kann er doch, da fallen ein monovalentes Verb ist, nur einen Aktanten haben. Aber dieser eine Aktant ist eben verdoppelt. Man mag, so man will, auch sagen, der Satz enthalte zwei erste Aktanten.
+    \citep[217]{Tesniere1980}
+\end{zitat}
+
+Man kann sich die Vervielfachung der Aktanten als eine auf das Wesentliche zusammengezogene Vervielfachung ganzer Sätze vorstellen: \textit{Kühe grasen} und \textit{Ziegen grasen} wird zu \textit{Kühe und Ziegen grasen}.
+
+Der Junktor, bei Tesniére als \textit{Junktiv} bezeichnet, steht in der graphischen Darstellung zwischen den Nuclei, die er verbindet. Darüberhinaus sind die jungierten Knoten mit einem Strich verbunden, dem Junktionsstrich. Da nur Nuclei von der selben Wortart und in der selben syntaktichen Funktion in eine Junktion treten können, ist dieser, ebenso wie im Falle der Apposition, horizontal \citep[218\,f.]{Tesniere1980}.
+
+\subsection{Partielle Junktion}
+\label{subsec:partielle:junktion}
+
+Als ein Sonderfall der Junktion gilt die partielle Junktion, das heißt eine Junktion zwischen regierenden, nicht aber zwischen regierten Knoten (siehe Abbildung \ref{fig:bifide}). Diese Art der Junktion heißt \textit{bifide}, in Anlehnung an ein Phänomen aus der Botanik, wo solche Blätter als bifide bezeichnet werden, die eine tiefe Einkerbung besitzen. Da die bifiden Sätze am gemeinsamen Knoten zusammenlaufen, entsteht der Eindruck einer Einstülpung.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/bifide}
+        \caption{Einfach bifider Satz}
+        \label{fig:bifide}
+    \end{center}
+\end{figure}
+
+Das Wesen der Bifidität liegt in der Vereinigung mehrerer Sätze, die so gestaltet ist, dass ein Nucleus mehrere Sätze bedient. Dadurch entstehen zwangsläufig Überschneidungen der Konnexionslinien, die umso komplexer ausfallen, je mehr Knoten in einem bifiden Satz jungiert sind.
+
+Doppelte Bifidität liegt vor, wenn mehrere Sätze mit dem gleichen Zentralnucleus zusammengezogen werden.
+
+\begin{zitat}
+    Beim Stemma ergibt sich eine Schwierigkeit, weil jeder der beiden ersten Aktanten nur auf je einen der zweiten Aktanten bezogen werden darf.
+    \citep[238\,f.]{Tesniere1980}
+\end{zitat}
+
+Um jener Schwierigkeit zu begegnen, bedient man sich eines horizontalen Junktionsstrichs, der im Falle einer konjunktionslosen Koordination auch keinen Junktiv anzeigt, sondern lediglich eine horizontale Linie darstellt. Die in der Abbildung \ref{fig:bifide2} dargestellten Stemmata sind äquivalent; die Notation des ausgelassenen Nucleus mit eckigen Klammern bei elliptischen Konstruktionen sollte aus Kapitel \ref{subsec:auslassungen} bekannt sein.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/bifide2}
+        \caption{Doppelt bifider Satz}
+        \label{fig:bifide2}
+    \end{center}
+\end{figure}
+
+Es mag auf den ersten Blick nicht offensichtlich erscheinen, dass Vergleichssätze ebenfalls zu den doppelt bifiden Sätzen zählen, siehe Abbildung \ref{fig:vergleichssatz}. \textit{Ziegen geben Milch wie Kühe} kann allerdings als Zusammenziehung der Sätze \textit{Ziegen geben Milch wie Kühe Milch geben} gelesen werden. \citep[Vgl.][238\,ff.]{Tesniere1980}.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/vergleichssatz}
+        \caption{Vergleichssätze sind auch bifide}
+        \label{fig:vergleichssatz}
+    \end{center}
+\end{figure}
+
+
+\subsection{Translation}
+\label{subsec:translation}
+
+In den bisherigen Ausführungen habe ich nur Hauptsätze behandelt, und die Wortklassen aller darin vorkommenden Nuclei entsprachen den aus der Schulgrammatik bekannten Wortarten. Um einen Ausdruck wie \textit{Gottes Sohn} mit den bisher vorgestellten Mitteln zu beschreiben, müsste man ein Stemma zeichnen wie in Abbildung \ref{fig:translation1}.
+
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/translation1}
+        \caption{Unzulässige Notation}
+        \label{fig:translation1}
+    \end{center}
+\end{figure}
+
+Dies ist jedoch nicht zulässig, siehe Kapitel \ref{subsec:stemma}. Durch Konversion eines der Substantive zur Wortklasse Epitheton ergibt sich ein korrektes Stemma, siehe Abbildung \ref{fig:translation2}. Die Konversion erschent insofern sinnvoll, als im o.~g. Beispielsatz das Substantiv \a{Gottes} das Substantiv \a{Sohn} näher beschreibt. Das Konversionsverfahren nennt Tesnière Translation \citep[248\,ff]{Tesniere1980}.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/translation2}
+        \caption{Zulässige Notation}
+        \label{fig:translation2}
+    \end{center}
+\end{figure}
+
+Das Novum des in der Abbildung \ref{fig:translation2} dargestellten Stemma ist das Translationssymbol, das mnemonischerweise an den Großbuchstaben T erinnert. Die einzelnen Elemente sind:
+
+\begin{itemize}
+    \item Translationssymbol
+    \item Transferend: Der Knoten vor Durchlaufen der Translation
+    \item Translat: Der Knoten nach Durchlaufen der Translation
+    \item Translativ: Der morphologische Markant (z.~B. Präposition, Flexiv oder der Nullmarkant Ø)
+\end{itemize}
+
+Das Translat wird über dem Querbalken des Translationssymbols notiert. Transferend und Translativ stehen unterhalb des Querbalkens, durch den vertikalen Balken voneinander getrennt. Je nach dem, ob in der linearen Abfolge der Translativ dem Transferenden vorangeht (im Falle der Präpositionen etwa) oder ob der Translativ auf den Transferenden folgt (im Falle der Flexive), ist das unterste Stück des vertikalen Balkens nach links oder rechts abgeknickt. Es weist stets zum Translativ, siehe Abbildung \ref{fig:translation3}.
+
+
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/translation3}
+        \caption{Translat, Transferend und Translativ}
+        \label{fig:translation3}
+    \end{center}
+\end{figure}
+
+
+Komposita werden im Stemma in ihre Bestandteile zerlegt, und zwar auf dem Wege der Translation, oder, anders ausgedrückt, Translation ist der Mechanismus, der der Kompositumbildung zugrunde liegt, siehe Abbildung \ref{fig:translation4}. Dies mag in Fällen stark lexikalisierter Komposita fragwürdig scheinen, ist jedoch grundsätzlich sinnvoll, da dieselben Sachverhalte in Sprachen mit analytischer Formenbildung durch einzelne Wörter, mit Hilfe von Präpositionen oder Kasusmarkierungen in Verbindung gebracht, ausgedrückt werden würden. Das Verfahren der analytischen Zerlegung qua Translation entfaltet bei der Beschreibung agglutinierender Sprachen sein volles Potential.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/translation4}
+        \caption{Translation in Kompositum}
+        \label{fig:translation4}
+    \end{center}
+\end{figure}
+
+\subsection{Translation 2. Grades}
+\label{subsec:translation2}
+
+Tesnière unterscheidet zwischen Translation 1. Grades und Translation 2. Grades. Translation 1. Grades liegt vor, wenn der Transferend kein finites Verb enthält, Translation 2. Grades liegt vor, wenn der Transferend selbst ein finites Verb ist oder aus einer Gruppe von Wörtern besteht, die ein finites Verb enthält. Translation 2. Grades dienst also dazu, Nebensätze anzugliedern \citep[Vgl.][119]{Werner2003}. Das Translationssymbol enthält im Unterschied zur Translation 1. Grades einen gedoppelten Querbalken, siehe Abbildung \ref{fig:translation5}.
+
+\begin{figure}
+    \begin{center}
+        \includegraphics{images/translation5}
+        \caption{Translation 2. Grades}
+        \label{fig:translation5}
+    \end{center}
+\end{figure}
+
+Der Nachname wird, ebenso wie Substantiv-Zusätze von der Art \a{\textbf{C-Dur} Sonate} oder \a{Unversität \textbf{Trier}}, zum Epitheton translatiert \citep[Vgl.][92]{Weber1997}.
+
+\subsection{Formale Translation}
+\label{subsec:formale:translation}
+
+Als dritter Translationstyp neben der Translation 1. Grades und der Translation 2. Grades wird die formale Translation genannt. Auf dem Wege der formalen Translation können beliebige Wörter und Wortfolgen in die Zielkategorie Substantiv (und nur in die Kategorie Substantiv) überführt werden. Da die Ausgangskategorie nicht festgelegt ist, stellt sich die Frage, ob es Translation 1. oder 2. Grades sein könnte, nicht; ebensowenig die Frage, ob die Translation intra- oder extranuklear abläuft, da auch Leerwörter als Ausgangsmaterial in Frage kommen \citep[Vgl.][276]{Tesniere1980}.
+
+Dies können sein idiomatische Wendungen oder fremdsprachliche Zitate mit Substantivcharakter, z.~B. \textit{Sag niemals \textbf{nie}} oder \textit{Beachten Sie den \textbf{Call for Papers}}.
+
+Alle Translationstypen können, auch kombiniert, in Mehrfachtranslationen kaskadenartig hintereinander durchlaufen werden. Zu den Kombinationsrestriktionen siehe \citep[119\,f.]{Werner2003}.
+
+Die Translation verändert die Konnexion des betroffenen Knoten nur nach oben hin. Ein O, das zum A gewandelt wurde, ist nach oben hin ein A, nach unten hin ist es ein O und kann selbst ein A regieren \citep[118]{Werner2003}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\clearpage
+\abstand
+\section{Vergleich der Dependenzgrammatik mit der Konstituentenstrukturgrammatik}
+\label{sec:ksg}
+
+Ein auf den ersten Blick mit der Dependenzgrammatik ähnlichen Aufbau haben die grafischen Darstellungen der Beziehungen der Konstitutenten nach der Konstituentenstrukturgrammatik. Tatsächlich lassen sich die beiden Stemmaarten ineinander überführen. Ein wesentlicher Unterschied jedoch liegt in der Herangehensweise bei der Bestimmung der Konstituenten im Gegensatz zur Bestimmung der Knoten in der dependenzgrammatischen Darstellung. [zit] Pelz S. 151
+Doch zunächst ein kurzes Exzerpt über die Konstitutentenstrukturgrammatik.
+
+\subsection{Ermittlung der Konstituenten}
+\label{sec:konstituenten:ermittlung}
+
+Die Bestimmung der Konstituenten erfolgt auf dreierlei Arten: Durch den Permutationstest, den Substitutionstest und den Deletionstest.
+Bei der Anwendung des Permutationstests werden alle Morpheme des Satzes in ihrer Reihenfolge vertauscht und es wird geprüft, ob immer noch ein grammatischer Satz dabei herauskommt. Solche Kombinationen von Morphemen, die nicht getrennt werden dürfen, sondern stets beieinander stehen müssen, bilden eine Konstituente \citep[Vgl.][151]{Pelz2004}.
+
+Der Satz 
